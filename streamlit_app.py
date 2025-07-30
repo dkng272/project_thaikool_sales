@@ -170,7 +170,7 @@ def plot_sales_by_month(df, channels=None, divisions=None, metric='Sales amount'
     if show_yoy:
         fig.update_yaxes(tickformat='.1f', ticksuffix='%')
     elif metric == 'Sales amount':
-        fig.update_yaxes(tickformat='.1f')
+        fig.update_yaxes(tickformat=',.1f')
     
     return fig
 
