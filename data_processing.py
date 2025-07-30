@@ -1,18 +1,13 @@
 # %%
 import pandas as pd
-import platform
 from pathlib import Path
 
 #%%
-def get_base_path():
-    if platform.system() == 'Windows':
-        return Path("G:/My Drive/Python")
-    else:
-        return Path("/Users/duynguyen/Library/CloudStorage/GoogleDrive-nkduy96@gmail.com/My Drive/Python")
-
 def load_and_clean_data():
     """Load raw data and perform all cleaning operations"""
-    df = pd.read_excel(get_base_path() / 'Casper Sales' / 'Sales Report by Month Raw Data.xlsx')
+    # Use relative path - looks for file in the same directory as this script
+    current_dir = Path(__file__).parent
+    df = pd.read_excel(current_dir / 'Sales Report by Month Raw Data.xlsx')
     df.Month = pd.to_datetime(df.Month) # Make sure it's in date time format
     
     # Cleaning up data and files
@@ -71,7 +66,7 @@ def load_and_clean_data():
     df['Division'] = df['Division'].replace({'Others - SDA': 'Others', 'Others - SHA': 'Others'})
 
     # Save as csv for safety
-    df.to_csv(get_base_path() / 'Casper Sales' / 'Sales Data_cleaned.csv', index=False)
+    df.to_csv(current_dir / 'Sales Data_cleaned.csv', index=False)
     
     return df
 
