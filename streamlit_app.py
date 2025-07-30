@@ -197,7 +197,7 @@ def main():
     selected_channels = st.sidebar.multiselect(
         "Select Channels:",
         options=channel_options,
-        default=all_channels,
+        default=['ALL'],  # Default to ALL
         help="Select 'ALL' to sum across all channels"
     )
     
@@ -207,7 +207,7 @@ def main():
     selected_divisions = st.sidebar.multiselect(
         "Select Divisions:",
         options=division_options,
-        default=all_divisions[:3],  # Default to first 3 divisions
+        default=['ALL'],  # Default to ALL
         help="Select 'ALL' to sum across all divisions"
     )
     
