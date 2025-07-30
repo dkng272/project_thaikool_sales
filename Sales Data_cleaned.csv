@@ -1,0 +1,1691 @@
+Month,Distribution channel,Region,Division,Type of product,Total volume,Free of charge (Volume),Sales return volume,Actual sales volume,Sales amount
+2024-10-01,GT,North,CAC,Others,223.0,0.0,51.0,121.0,2.165249979
+2024-10-01,GT,North,RAC,Non Inverter,885.0,0.0,95.0,695.0,3.032272955
+2024-10-01,GT,North,RAC,Inverter,5711.0,4666.0,30.0,985.0,6.236590867
+2024-10-01,GT,North,Washing Machine,Dryer Machine,1031.0,1.0,0.0,1030.0,4.635
+2024-10-01,GT,North,Washing Machine,Front load,27.0,1.0,0.0,26.0,0.11863637
+2024-10-01,GT,North,Washing Machine,Dryer Machine,66.0,0.0,0.0,66.0,0.386999976
+2024-10-01,GT,North,Washing Machine,Top load,2063.0,158.0,0.0,1905.0,6.242726745
+2024-10-01,GT,North,Television,Small size,330.0,0.0,0.0,330.0,1.60727276
+2024-10-01,GT,North,Television,Large size,3874.0,1.0,0.0,3873.0,25.878681114
+2024-10-01,GT,North,Refrigerator,Multi doors,77.0,1.0,0.0,76.0,0.684
+2024-10-01,GT,North,Refrigerator,Side by Side,55.0,0.0,0.0,55.0,0.46272727
+2024-10-01,GT,South,CAC,Others,175.0,0.0,0.0,175.0,3.86997272
+2024-10-01,GT,South,RAC,Non Inverter,80.0,0.0,0.0,80.0,0.46318183
+2024-10-01,GT,South,RAC,Inverter,3211.0,0.0,0.0,3211.0,18.594227024
+2024-10-01,GT,South,Washing Machine,Dryer Machine,10.0,0.0,0.0,10.0,0.045
+2024-10-01,GT,South,Washing Machine,Front load,104.0,0.0,0.0,104.0,0.558090906
+2024-10-01,GT,South,Washing Machine,Top load,365.0,0.0,0.0,365.0,1.19818172
+2024-10-01,GT,South,Television,Small size,448.0,0.0,1.0,446.0,2.155000047
+2024-10-01,GT,South,Television,Large size,488.0,0.0,1.0,486.0,3.075499896
+2024-10-01,GT,South,Refrigerator,Multi doors,15.0,0.0,0.0,15.0,0.135
+2024-10-01,GT,South,Refrigerator,Side by Side,60.0,0.0,0.0,60.0,0.49090908
+2024-10-01,GT,Middle,CAC,Others,90.0,20.0,0.0,70.0,1.39381817
+2024-10-01,GT,Middle,RAC,Non Inverter,40.0,0.0,0.0,40.0,0.23499999
+2024-10-01,GT,Middle,RAC,Inverter,1535.0,0.0,0.0,1535.0,8.757409049
+2024-10-01,GT,Middle,Washing Machine,Dryer Machine,345.0,0.0,0.0,345.0,1.5525
+2024-10-01,GT,Middle,Washing Machine,Front load,10.0,0.0,0.0,10.0,0.04590909
+2024-10-01,GT,Middle,Washing Machine,Top load,203.0,0.0,98.0,7.0,0.385909065
+2024-10-01,GT,Middle,Television,Small size,895.0,0.0,0.0,895.0,3.362727005
+2024-10-01,GT,Middle,Television,Large size,300.0,0.0,0.0,300.0,2.0045454
+2024-10-01,GT,Middle,Refrigerator,Multi doors,89.0,0.0,0.0,89.0,0.801
+2024-10-01,GT,Middle,Refrigerator,Side by Side,56.0,0.0,0.0,56.0,0.461363628
+2024-10-01,MT,North,CAC,Others,7.0,0.0,0.0,7.0,0.177362185
+2024-10-01,MT,North,RAC,Non Inverter,6.0,0.0,0.0,6.0,0.070157454
+2024-10-01,MT,North,RAC,Inverter,1138.0,0.0,9.0,1120.0,7.719927375
+2024-10-01,MT,North,Washing Machine,Dryer Machine,166.0,0.0,0.0,166.0,0.77467
+2024-10-01,MT,North,Washing Machine,Front load,655.0,0.0,1.0,653.0,2.594125785
+2024-10-01,MT,North,Washing Machine,Dryer Machine,6.0,0.0,0.0,6.0,0.039229092
+2024-10-01,MT,North,Washing Machine,Top load,693.0,0.0,0.0,693.0,2.142988838
+2024-10-01,MT,North,Television,Small size,123.0,0.0,0.0,123.0,0.489733632
+2024-10-01,MT,North,Television,Large size,112.0,0.0,1.0,110.0,0.733767251
+2024-10-01,MT,North,Refrigerator,Multi doors,29.0,0.0,0.0,29.0,0.306357091
+2024-10-01,MT,North,Refrigerator,Side by Side,151.0,0.0,4.0,143.0,1.425315157
+2024-10-01,MT,South,RAC,Non Inverter,17.0,0.0,0.0,17.0,0.198779453
+2024-10-01,MT,South,RAC,Inverter,4448.0,0.0,17.0,4414.0,27.785610967
+2024-10-01,MT,South,Washing Machine,Dryer Machine,178.0,0.0,0.0,178.0,0.839098
+2024-10-01,MT,South,Washing Machine,Front load,546.0,0.0,2.0,542.0,2.629962945
+2024-10-01,MT,South,Washing Machine,Dryer Machine,22.0,0.0,0.0,22.0,0.14449382
+2024-10-01,MT,South,Washing Machine,Top load,1948.0,0.0,0.0,1948.0,6.202937034
+2024-10-01,MT,South,Television,Small size,356.0,0.0,0.0,356.0,1.488644473
+2024-10-01,MT,South,Television,Large size,99.0,0.0,3.0,93.0,0.472410446
+2024-10-01,MT,South,Refrigerator,Top freezer,1.0,0.0,1.0,-1.0,-0.00702
+2024-10-01,MT,South,Refrigerator,Multi doors,131.0,0.0,0.0,131.0,1.412686185
+2024-10-01,MT,South,Refrigerator,Side by Side,351.0,0.0,0.0,351.0,3.162574679
+2024-10-01,MT,Middle,RAC,Non Inverter,2.0,0.0,0.0,2.0,0.023385818
+2024-10-01,MT,Middle,RAC,Inverter,321.0,0.0,1.0,319.0,1.742601473
+2024-10-01,MT,Middle,Washing Machine,Dryer Machine,31.0,0.0,0.0,31.0,0.139948
+2024-10-01,MT,Middle,Washing Machine,Front load,45.0,0.0,0.0,45.0,0.211706624
+2024-10-01,MT,Middle,Washing Machine,Dryer Machine,2.0,0.0,0.0,2.0,0.013076364
+2024-10-01,MT,Middle,Washing Machine,Top load,91.0,0.0,0.0,91.0,0.300358187
+2024-10-01,MT,Middle,Television,Small size,32.0,0.0,0.0,32.0,0.140891461
+2024-10-01,MT,Middle,Television,Large size,9.0,0.0,0.0,9.0,0.048386364
+2024-10-01,MT,Middle,Refrigerator,Multi doors,15.0,0.0,0.0,15.0,0.157840001
+2024-10-01,MT,Middle,Refrigerator,Side by Side,41.0,0.0,0.0,41.0,0.410011277
+2024-10-01,Retail,North,RAC,Non Inverter,5.0,0.0,0.0,2.0,0.026337274
+2024-10-01,Retail,North,RAC,Inverter,63.0,1.0,0.0,26.0,0.332927179
+2024-10-01,Retail,North,Others,Air purifier,17.0,5.0,0.0,1.0,0.019986365
+2024-10-01,Retail,North,Washing Machine,Dryer Machine,2.0,0.0,0.0,1.0,0.0083
+2024-10-01,Retail,North,Washing Machine,Front load,8.0,0.0,0.0,6.0,0.042199998
+2024-10-01,Retail,North,Washing Machine,Dryer Machine,1.0,0.0,0.0,0.0,0.0059
+2024-10-01,Retail,North,Washing Machine,Top load,23.0,0.0,0.0,0.0,0.07215464
+2024-10-01,Retail,North,Television,Small size,46.0,0.0,0.0,39.0,0.181863642
+2024-10-01,Retail,North,Television,Large size,1.0,0.0,0.0,1.0,0.005790909
+2024-10-01,Retail,North,Refrigerator,Multi doors,2.0,0.0,0.0,1.0,0.0181
+2024-10-01,Retail,North,Refrigerator,Side by Side,8.0,0.0,0.0,1.0,0.071081817
+2024-10-01,Retail,South,RAC,Non Inverter,13.0,0.0,0.0,13.0,0.030460184
+2024-10-01,Retail,South,RAC,Inverter,19.0,0.0,0.0,18.0,0.097381819
+2024-10-01,Retail,South,Others,Air purifier,5.0,0.0,0.0,3.0,0.008136362
+2024-10-01,Retail,South,Washing Machine,Front load,8.0,0.0,0.0,8.0,0.026182
+2024-10-01,Retail,South,Washing Machine,Dryer Machine,1.0,0.0,0.0,1.0,0.0059
+2024-10-01,Retail,South,Washing Machine,Top load,25.0,0.0,0.0,24.0,0.077992636
+2024-10-01,Retail,South,Television,Small size,4.0,0.0,0.0,3.0,0.017381818
+2024-10-01,Retail,South,Television,Large size,1.0,0.0,0.0,1.0,0.0059
+2024-10-01,Retail,South,Refrigerator,Top freezer,3.0,0.0,0.0,3.0,0.008973273
+2024-10-01,Retail,South,Refrigerator,Multi doors,9.0,0.0,0.0,9.0,0.037927908
+2024-10-01,Retail,South,Refrigerator,Side by Side,15.0,0.0,0.0,14.0,0.080742998
+2024-10-01,Retail,Middle,RAC,Non Inverter,1.0,0.0,0.0,1.0,0.001281818
+2024-10-01,Retail,Middle,Others,Air purifier,3.0,0.0,0.0,3.0,0.002036363
+2024-10-01,Retail,Middle,Others,Cooker,1.0,0.0,0.0,1.0,0.000436364
+2024-10-01,Retail,Middle,Others,Cooker,1.0,0.0,0.0,1.0,0.000290909
+2024-10-01,Retail,Middle,Washing Machine,Front load,2.0,0.0,0.0,2.0,0.004363637
+2024-10-01,Retail,Middle,Washing Machine,Top load,2.0,0.0,0.0,2.0,0.002818182
+2024-10-01,Retail,Middle,Television,Large size,6.0,0.0,0.0,6.0,0.010536363
+2024-10-01,Retail,Middle,Refrigerator,Bottom freezer,1.0,0.0,0.0,1.0,0.001069091
+2024-10-01,Retail,Middle,Refrigerator,Top freezer,1.0,0.0,0.0,1.0,0.001163636
+2024-10-01,Retail,Middle,Refrigerator,Multi doors,1.0,0.0,0.0,1.0,0.003636364
+2024-10-01,Retail,Middle,Refrigerator,Side by Side,1.0,0.0,0.0,1.0,0.002545455
+2024-09-01,GT,North,CAC,Others,283.0,10.0,0.0,273.0,5.684227296
+2024-09-01,GT,North,RAC,Non Inverter,1409.0,0.0,1.0,1108.0,7.442136303
+2024-09-01,GT,North,RAC,Inverter,10111.0,571.0,111.0,9379.0,51.594273546
+2024-09-01,GT,North,Washing Machine,Dryer Machine,165.0,0.0,0.0,165.0,0.667500075
+2024-09-01,GT,North,Washing Machine,Front load,780.0,0.0,0.0,780.0,3.734409083
+2024-09-01,GT,North,Washing Machine,Dryer Machine,45.0,0.0,0.0,45.0,0.24136362
+2024-09-01,GT,North,Washing Machine,Top load,734.0,100.0,0.0,634.0,2.045272706
+2024-09-01,GT,North,Television,Small size,1131.0,0.0,0.0,1131.0,3.704772455
+2024-09-01,GT,North,Television,Large size,70.0,0.0,0.0,70.0,0.42
+2024-09-01,GT,North,Refrigerator,Multi doors,20.0,0.0,0.0,20.0,0.1609091
+2024-09-01,GT,North,Refrigerator,Side by Side,100.0,0.0,0.0,100.0,0.73545456
+2024-09-01,GT,South,CAC,Others,118.0,34.0,0.0,84.0,1.852045462
+2024-09-01,GT,South,RAC,Non Inverter,90.0,0.0,0.0,90.0,0.49999999
+2024-09-01,GT,South,RAC,Inverter,3029.0,0.0,0.0,3029.0,15.827408855
+2024-09-01,GT,South,Others,Water Heater,17.0,0.0,0.0,17.0,0.007572735
+2024-09-01,GT,South,Washing Machine,Dryer Machine,40.0,0.0,0.0,40.0,0.1618182
+2024-09-01,GT,South,Washing Machine,Front load,395.0,0.0,1.0,394.0,1.668409055
+2024-09-01,GT,South,Washing Machine,Top load,850.0,0.0,0.0,850.0,2.333863495
+2024-09-01,GT,South,Television,Small size,820.0,0.0,0.0,820.0,3.194318265
+2024-09-01,GT,South,Television,Large size,410.0,0.0,0.0,410.0,2.46
+2024-09-01,GT,South,Refrigerator,Bottom freezer,5.0,0.0,0.0,5.0,0.015272725
+2024-09-01,GT,South,Refrigerator,Top freezer,5.0,0.0,0.0,5.0,0.011454544
+2024-09-01,GT,South,Refrigerator,Multi doors,102.0,0.0,0.0,102.0,0.82063641
+2024-09-01,GT,South,Refrigerator,Side by Side,173.0,0.0,0.0,173.0,1.304409084
+2024-09-01,GT,Middle,CAC,Others,158.0,0.0,0.0,158.0,3.377090915
+2024-09-01,GT,Middle,RAC,Inverter,1160.0,0.0,0.0,1160.0,5.509545505
+2024-09-01,GT,Middle,Washing Machine,Dryer Machine,10.0,0.0,0.0,10.0,0.04045455
+2024-09-01,GT,Middle,Washing Machine,Front load,10.0,0.0,198.0,-198.0,-1.071000018
+2024-09-01,GT,Middle,Washing Machine,Dryer Machine,20.0,0.0,0.0,20.0,0.10727272
+2024-09-01,GT,Middle,Washing Machine,Top load,25.0,0.0,199.0,-174.0,-0.696954578
+2024-09-01,GT,Middle,Television,Small size,194.0,0.0,0.0,194.0,0.88181827
+2024-09-01,GT,Middle,Television,Large size,35.0,0.0,0.0,35.0,0.196181813
+2024-09-01,GT,Middle,Refrigerator,Multi doors,3.0,0.0,1.0,2.0,0.012500001
+2024-09-01,GT,Middle,Refrigerator,Side by Side,2.0,0.0,0.0,2.0,0.014454546
+2024-09-01,MT,North,CAC,Others,1.0,0.0,0.0,1.0,0.0126
+2024-09-01,MT,North,RAC,Non Inverter,9.0,0.0,0.0,9.0,0.105236181
+2024-09-01,MT,North,RAC,Inverter,1315.0,0.0,13.0,1302.0,8.862505441
+2024-09-01,MT,North,Washing Machine,Dryer Machine,148.0,0.0,1.0,147.0,0.690182
+2024-09-01,MT,North,Washing Machine,Front load,744.0,0.0,11.0,733.0,3.165106211
+2024-09-01,MT,North,Washing Machine,Dryer Machine,167.0,0.0,0.0,167.0,1.105361349
+2024-09-01,MT,North,Washing Machine,Top load,356.0,0.0,0.0,356.0,1.114589236
+2024-09-01,MT,North,Television,Small size,41.0,0.0,0.0,41.0,0.157738188
+2024-09-01,MT,North,Television,Large size,117.0,0.0,0.0,117.0,0.68181093
+2024-09-01,MT,North,Refrigerator,Bottom freezer,117.0,0.0,1.0,-1.0,-0.004181818
+2024-09-01,MT,North,Refrigerator,Multi doors,11.0,0.0,0.0,11.0,0.085448183
+2024-09-01,MT,North,Refrigerator,Side by Side,26.0,0.0,0.0,26.0,0.267507454
+2024-09-01,MT,South,RAC,Non Inverter,6.0,0.0,0.0,6.0,0.070157454
+2024-09-01,MT,South,RAC,Inverter,3307.0,0.0,4.0,3303.0,20.846152741
+2024-09-01,MT,South,Washing Machine,Dryer Machine,123.0,0.0,0.0,123.0,0.566282
+2024-09-01,MT,South,Washing Machine,Front load,396.0,0.0,0.0,396.0,1.750502034
+2024-09-01,MT,South,Washing Machine,Dryer Machine,4.0,0.0,0.0,4.0,0.026152728
+2024-09-01,MT,South,Washing Machine,Top load,991.0,0.0,0.0,991.0,3.049587925
+2024-09-01,MT,South,Television,Small size,33.0,0.0,0.0,33.0,0.143760012
+2024-09-01,MT,South,Television,Large size,33.0,0.0,3.0,-3.0,-0.022458545
+2024-09-01,MT,South,Refrigerator,Multi doors,28.0,0.0,0.0,28.0,0.268637092
+2024-09-01,MT,South,Refrigerator,Side by Side,317.0,0.0,0.0,317.0,3.23019329
+2024-09-01,MT,Middle,CAC,Others,8.0,0.0,0.0,8.0,0.168960002
+2024-09-01,MT,Middle,RAC,Inverter,551.0,0.0,4.0,547.0,3.267130467
+2024-09-01,MT,Middle,Washing Machine,Dryer Machine,30.0,0.0,0.0,30.0,0.139004
+2024-09-01,MT,Middle,Washing Machine,Front load,26.0,0.0,0.0,26.0,0.11499582
+2024-09-01,MT,Middle,Washing Machine,Top load,132.0,0.0,0.0,132.0,0.390012553
+2024-09-01,MT,Middle,Television,Small size,4.0,0.0,0.0,4.0,0.017425456
+2024-09-01,MT,Middle,Television,Large size,4.0,0.0,5.0,-5.0,-0.02832818
+2024-09-01,MT,Middle,Refrigerator,Multi doors,1.0,0.0,0.0,1.0,0.004497273
+2024-09-01,MT,Middle,Refrigerator,Side by Side,51.0,0.0,0.0,51.0,0.530401274
+2024-09-01,Retail,North,RAC,Inverter,15.0,2.0,0.0,9.0,0.069765456
+2024-09-01,Retail,North,Others,Air purifier,8.0,0.0,0.0,0.0,0.011092454
+2024-09-01,Retail,North,Washing Machine,Front load,8.0,0.0,0.0,3.0,0.040810182
+2024-09-01,Retail,North,Washing Machine,Dryer Machine,9.0,0.0,0.0,4.0,0.049536366
+2024-09-01,Retail,North,Washing Machine,Top load,5.0,0.0,0.0,0.0,0.013001544
+2024-09-01,Retail,North,Television,Small size,2.0,0.0,0.0,1.0,0.005791818
+2024-09-01,Retail,North,Television,Large size,5.0,0.0,0.0,1.0,0.030672726
+2024-09-01,Retail,North,Refrigerator,Side by Side,1.0,0.0,0.0,0.0,0.007432
+2024-09-01,Retail,South,RAC,Inverter,1.0,1.0,0.0,0.0,0.0
+2024-09-01,Retail,South,Others,Air purifier,2.0,0.0,0.0,2.0,0.003027272
+2024-09-01,Retail,South,Television,Small size,2.0,2.0,0.0,0.0,0.0
+2024-09-01,Retail,Middle,Washing Machine,Front load,1.0,0.0,0.0,1.0,0.003854545
+2024-09-01,Retail,Middle,Washing Machine,Dryer Machine,1.0,0.0,0.0,1.0,0.005236364
+2024-08-01,GT,North,CAC,Others,205.0,0.0,0.0,205.0,4.293127274
+2024-08-01,GT,North,RAC,Non Inverter,707.0,0.0,115.0,592.0,3.979669813
+2024-08-01,GT,North,RAC,Inverter,7007.0,2388.0,283.0,4336.0,28.782000695
+2024-08-01,GT,North,Others,Air purifier,5.0,5.0,0.0,0.0,0.0
+2024-08-01,GT,North,Washing Machine,Dryer Machine,89.0,0.0,0.0,89.0,0.363090902
+2024-08-01,GT,North,Washing Machine,Front load,2548.0,1.0,0.0,2547.0,13.460772899
+2024-08-01,GT,North,Washing Machine,Dryer Machine,40.0,0.0,0.0,40.0,0.23636364
+2024-08-01,GT,North,Washing Machine,Top load,3728.0,874.0,54.0,2800.0,10.043409382
+2024-08-01,GT,North,Television,Small size,256.0,0.0,0.0,256.0,0.819636312
+2024-08-01,GT,North,Television,Large size,1280.0,1.0,0.0,1279.0,6.874590737
+2024-08-01,GT,North,Refrigerator,Multi doors,103.0,0.0,0.0,103.0,0.936363627
+2024-08-01,GT,North,Refrigerator,Side by Side,242.0,0.0,0.0,242.0,1.914545451
+2024-08-01,GT,South,CAC,Others,131.0,0.0,0.0,131.0,3.049772727
+2024-08-01,GT,South,RAC,Non Inverter,65.0,0.0,0.0,65.0,0.42886365
+2024-08-01,GT,South,RAC,Inverter,2392.0,521.0,0.0,1871.0,9.712591125
+2024-08-01,GT,South,Washing Machine,Dryer Machine,40.0,0.0,0.0,40.0,0.162500015
+2024-08-01,GT,South,Washing Machine,Front load,285.0,0.0,2.0,283.0,1.312909161
+2024-08-01,GT,South,Washing Machine,Top load,340.0,0.0,0.0,340.0,1.03977274
+2024-08-01,GT,South,Television,Small size,1029.0,0.0,0.0,1029.0,3.522727495
+2024-08-01,GT,South,Television,Large size,256.0,2.0,0.0,254.0,1.399818167
+2024-08-01,GT,South,Refrigerator,Multi doors,49.0,0.0,3.0,46.0,0.409636358
+2024-08-01,GT,South,Refrigerator,Side by Side,85.0,0.0,1.0,84.0,0.684909078
+2024-08-01,GT,Middle,CAC,Others,89.0,19.0,0.0,70.0,1.734981817
+2024-08-01,GT,Middle,RAC,Non Inverter,20.0,0.0,0.0,20.0,0.084090905
+2024-08-01,GT,Middle,RAC,Inverter,3557.0,1313.0,0.0,2244.0,10.717727696
+2024-08-01,GT,Middle,Others,Air purifier,3.0,3.0,0.0,0.0,0.0
+2024-08-01,GT,Middle,Washing Machine,Dryer Machine,7.0,0.0,0.0,7.0,0.029272726
+2024-08-01,GT,Middle,Washing Machine,Front load,408.0,0.0,0.0,408.0,2.179090938
+2024-08-01,GT,Middle,Washing Machine,Top load,630.0,189.0,0.0,441.0,1.631363699
+2024-08-01,GT,Middle,Television,Small size,647.0,0.0,0.0,647.0,2.687636607
+2024-08-01,GT,Middle,Refrigerator,Multi doors,19.0,0.0,0.0,19.0,0.172727271
+2024-08-01,GT,Middle,Refrigerator,Side by Side,31.0,0.0,0.0,31.0,0.246590908
+2024-07-01,GT,North,CAC,Others,482.0,44.0,0.0,438.0,9.027642825
+2024-07-01,GT,North,RAC,Non Inverter,724.0,0.0,134.0,566.0,6.012545324
+2024-07-01,GT,North,RAC,Inverter,24875.0,2364.0,529.0,21982.0,131.402636745
+2024-07-01,GT,North,Washing Machine,Dryer Machine,25.0,0.0,0.0,25.0,0.101136375
+2024-07-01,GT,North,Washing Machine,Front load,1246.0,0.0,320.0,882.0,4.068682078
+2024-07-01,GT,North,Washing Machine,Dryer Machine,120.0,0.0,0.0,120.0,0.70909092
+2024-07-01,GT,North,Washing Machine,Top load,1715.0,0.0,0.0,1715.0,4.99931816
+2024-07-01,GT,North,Television,Small size,580.0,0.0,0.0,580.0,1.89818166
+2024-07-01,GT,North,Television,Large size,630.0,0.0,0.0,630.0,3.857045505
+2024-07-01,GT,North,Refrigerator,Bottom freezer,630.0,0.0,6.0,-6.0,-0.043090908
+2024-07-01,GT,North,Refrigerator,Top freezer,630.0,0.0,3.0,-3.0,-0.016090908
+2024-07-01,GT,North,Refrigerator,Multi doors,1106.0,0.0,0.0,1106.0,10.054545354
+2024-07-01,GT,North,Refrigerator,Side by Side,1769.0,0.0,0.0,1769.0,14.321636194
+2024-07-01,GT,South,CAC,Others,67.0,10.0,0.0,57.0,1.255399995
+2024-07-01,GT,South,RAC,Non Inverter,100.0,0.0,0.0,100.0,0.3772727
+2024-07-01,GT,South,RAC,Inverter,5747.0,1565.0,0.0,4182.0,21.13500068
+2024-07-01,GT,South,Washing Machine,Front load,219.0,80.0,0.0,139.0,0.698590898
+2024-07-01,GT,South,Washing Machine,Dryer Machine,120.0,100.0,0.0,20.0,0.116136365
+2024-07-01,GT,South,Washing Machine,Top load,314.0,145.0,0.0,169.0,0.523727256
+2024-07-01,GT,South,Television,Small size,1176.0,100.0,0.0,1076.0,3.148363716
+2024-07-01,GT,South,Television,Large size,275.0,0.0,0.0,275.0,1.6056818
+2024-07-01,GT,South,Refrigerator,Top freezer,275.0,0.0,2.0,-2.0,-0.011818182
+2024-07-01,GT,South,Refrigerator,Multi doors,223.0,0.0,0.0,223.0,2.027272707
+2024-07-01,GT,South,Refrigerator,Side by Side,255.0,0.0,0.0,255.0,2.089772665
+2024-07-01,GT,Middle,CAC,Others,72.0,0.0,0.0,72.0,1.667981821
+2024-07-01,GT,Middle,RAC,Non Inverter,220.0,0.0,0.0,220.0,2.53727266
+2024-07-01,GT,Middle,RAC,Inverter,4499.0,1499.0,0.0,3000.0,20.109363811
+2024-07-01,GT,Middle,Washing Machine,Front load,83.0,0.0,0.0,83.0,0.396681832
+2024-07-01,GT,Middle,Washing Machine,Dryer Machine,3.0,0.0,0.0,3.0,0.016909091
+2024-07-01,GT,Middle,Washing Machine,Top load,111.0,0.0,0.0,111.0,0.331272708
+2024-07-01,GT,Middle,Television,Small size,20.0,0.0,0.0,20.0,0.06545454
+2024-07-01,GT,Middle,Television,Large size,130.0,0.0,0.0,130.0,0.806590915
+2024-07-01,GT,Middle,Refrigerator,Multi doors,57.0,0.0,0.0,57.0,0.518181813
+2024-07-01,GT,Middle,Refrigerator,Side by Side,96.0,0.0,0.0,96.0,0.779181807
+2024-07-01,MT,North,CAC,Others,8.0,0.0,0.0,8.0,0.153018183
+2024-07-01,MT,North,RAC,Non Inverter,465.0,0.0,0.0,465.0,1.780975761
+2024-07-01,MT,North,RAC,Inverter,2600.0,0.0,20.0,2580.0,16.994857801
+2024-07-01,MT,North,Washing Machine,Dryer Machine,11.0,0.0,0.0,11.0,0.05251
+2024-07-01,MT,North,Washing Machine,Front load,501.0,0.0,1.0,500.0,2.304697328
+2024-07-01,MT,North,Washing Machine,Dryer Machine,11.0,0.0,0.0,11.0,0.072737272
+2024-07-01,MT,North,Washing Machine,Top load,442.0,0.0,0.0,442.0,1.330625397
+2024-07-01,MT,North,Television,Small size,285.0,0.0,0.0,285.0,1.19792734
+2024-07-01,MT,North,Television,Large size,170.0,0.0,8.0,162.0,1.110497758
+2024-07-01,MT,North,Refrigerator,Bottom freezer,170.0,0.0,2.0,-2.0,-0.008363636
+2024-07-01,MT,North,Refrigerator,Side by Side,136.0,0.0,5.0,131.0,1.357489888
+2024-07-01,MT,South,CAC,Others,3.0,0.0,0.0,3.0,0.064554545
+2024-07-01,MT,South,RAC,Inverter,2994.0,0.0,30.0,2964.0,19.996642482
+2024-07-01,MT,South,Washing Machine,Dryer Machine,97.0,0.0,0.0,97.0,0.440376
+2024-07-01,MT,South,Washing Machine,Front load,470.0,0.0,4.0,466.0,2.022762456
+2024-07-01,MT,South,Washing Machine,Dryer Machine,85.0,0.0,0.0,85.0,0.545938198
+2024-07-01,MT,South,Washing Machine,Top load,480.0,0.0,4.0,476.0,1.468066419
+2024-07-01,MT,South,Television,Small size,1685.0,0.0,1.0,1684.0,4.567732771
+2024-07-01,MT,South,Television,Large size,1062.0,0.0,2.0,1060.0,5.788089911
+2024-07-01,MT,South,Refrigerator,Mini,1062.0,0.0,1.0,-1.0,-0.002262
+2024-07-01,MT,South,Refrigerator,Bottom freezer,1062.0,0.0,2.0,-2.0,-0.01453091
+2024-07-01,MT,South,Refrigerator,Multi doors,1062.0,0.0,5.0,-5.0,-0.060946363
+2024-07-01,MT,South,Refrigerator,Side by Side,292.0,0.0,2.0,290.0,2.954041305
+2024-07-01,MT,Middle,CAC,Others,9.0,0.0,0.0,9.0,0.197186185
+2024-07-01,MT,Middle,RAC,Non Inverter,15.0,0.0,1.0,14.0,0.065323822
+2024-07-01,MT,Middle,RAC,Inverter,881.0,0.0,4.0,877.0,5.006793704
+2024-07-01,MT,Middle,Washing Machine,Dryer Machine,3.0,0.0,0.0,3.0,0.013924
+2024-07-01,MT,Middle,Washing Machine,Front load,14.0,0.0,0.0,14.0,0.062631456
+2024-07-01,MT,Middle,Washing Machine,Dryer Machine,1.0,0.0,0.0,1.0,0.006538182
+2024-07-01,MT,Middle,Washing Machine,Top load,34.0,0.0,0.0,34.0,0.105603273
+2024-07-01,MT,Middle,Television,Small size,172.0,0.0,0.0,172.0,0.431889109
+2024-07-01,MT,Middle,Television,Large size,106.0,0.0,0.0,106.0,0.572713589
+2024-07-01,MT,Middle,Refrigerator,Side by Side,22.0,0.0,0.0,22.0,0.230342547
+2024-07-01,Retail,North,RAC,Inverter,30.0,0.0,0.0,30.0,0.156172729
+2024-07-01,Retail,North,Others,Air purifier,9.0,0.0,0.0,9.0,0.011145456
+2024-07-01,Retail,North,Washing Machine,Dryer Machine,5.0,0.0,0.0,5.0,0.017454545
+2024-07-01,Retail,North,Washing Machine,Front load,13.0,3.0,0.0,10.0,0.037163636
+2024-07-01,Retail,North,Washing Machine,Top load,4.0,2.0,0.0,2.0,0.004681818
+2024-07-01,Retail,North,Television,Small size,1.0,0.0,0.0,1.0,0.002772727
+2024-07-01,Retail,North,Television,Large size,4.0,0.0,0.0,4.0,0.020254546
+2024-07-01,Retail,North,Refrigerator,Side by Side,11.0,0.0,0.0,11.0,0.074327269
+2024-07-01,Retail,South,RAC,Non Inverter,5.0,0.0,0.0,5.0,0.008413419
+2024-07-01,Retail,South,RAC,Inverter,2.0,0.0,0.0,2.0,0.007836364
+2024-07-01,Retail,South,Others,Indirect,8.0,0.0,0.0,8.0,0.005096728
+2024-07-01,Retail,South,Others,Air purifier,10.0,6.0,0.0,4.0,0.003696872
+2024-07-01,Retail,South,Others,Cooker,1.0,0.0,0.0,1.0,0.000578909
+2024-07-01,Retail,South,Others,Cooker,1.0,0.0,0.0,1.0,0.000433455
+2024-07-01,Retail,South,Others,Direct,3.0,0.0,0.0,3.0,0.001911273
+2024-07-01,Retail,South,Washing Machine,Dryer Machine,1.0,0.0,0.0,1.0,0.001888
+2024-07-01,Retail,South,Washing Machine,Front load,7.0,0.0,0.0,7.0,0.022242908
+2024-07-01,Retail,South,Washing Machine,Top load,3.0,0.0,0.0,3.0,0.006829818
+2024-07-01,Retail,South,Refrigerator,Mini,9.0,0.0,0.0,9.0,0.007886544
+2024-07-01,Retail,South,Refrigerator,Bottom freezer,14.0,0.0,0.0,14.0,0.059595633
+2024-07-01,Retail,South,Refrigerator,Top freezer,38.0,0.0,0.0,38.0,0.134415276
+2024-07-01,Retail,South,Refrigerator,Multi doors,16.0,0.0,0.0,16.0,0.092947273
+2024-07-01,Retail,South,Refrigerator,Side by Side,3.0,0.0,0.0,3.0,0.015666908
+2024-07-01,Retail,Middle,RAC,Inverter,1.0,0.0,0.0,1.0,0.004372727
+2024-07-01,Retail,Middle,Washing Machine,Front load,3.0,0.0,0.0,3.0,0.003405
+2024-07-01,Retail,Middle,Television,Small size,1.0,0.0,0.0,1.0,0.003890909
+2024-07-01,Retail,Middle,Television,Large size,2.0,0.0,0.0,2.0,0.022356363
+2024-07-01,Retail,Middle,Refrigerator,Top freezer,11.0,0.0,0.0,11.0,0.014423182
+2024-07-01,Retail,Middle,Refrigerator,Multi doors,3.0,0.0,0.0,3.0,0.01297909
+2024-07-01,Retail,Middle,Refrigerator,Side by Side,2.0,0.0,0.0,2.0,0.005589546
+2024-06-01,GT,North,CAC,Others,142.0,83.0,0.0,59.0,1.340753085
+2024-06-01,GT,North,RAC,Non Inverter,16417.0,20.0,0.0,16397.0,62.365405165
+2024-06-01,GT,North,RAC,Inverter,24788.0,536.0,0.0,24252.0,133.960136831
+2024-06-01,GT,North,Washing Machine,Dryer Machine,150.0,0.0,0.0,150.0,0.6204546
+2024-06-01,GT,North,Washing Machine,Front load,670.0,0.0,0.0,670.0,2.90227259
+2024-06-01,GT,North,Washing Machine,Top load,1130.0,0.0,0.0,1130.0,3.408182
+2024-06-01,GT,North,Television,Small size,1843.0,0.0,0.0,1843.0,6.771045852
+2024-06-01,GT,North,Television,Large size,2083.0,1.0,0.0,2082.0,13.943636464
+2024-06-01,GT,North,Refrigerator,Multi doors,121.0,0.0,0.0,121.0,1.21
+2024-06-01,GT,North,Refrigerator,Side by Side,319.0,0.0,0.0,319.0,2.645772725
+2024-06-01,GT,South,CAC,Others,69.0,0.0,0.0,69.0,1.631327265
+2024-06-01,GT,South,RAC,Non Inverter,800.0,0.0,0.0,800.0,3.10681804
+2024-06-01,GT,South,RAC,Inverter,3880.0,0.0,0.0,3880.0,19.523409495
+2024-06-01,GT,South,Washing Machine,Front load,166.0,0.0,0.0,166.0,0.719909057
+2024-06-01,GT,South,Washing Machine,Dryer Machine,10.0,0.0,0.0,10.0,0.05590909
+2024-06-01,GT,South,Washing Machine,Top load,245.0,0.0,500.0,-255.0,-0.7604545
+2024-06-01,GT,South,Television,Small size,490.0,0.0,0.0,490.0,1.6404546
+2024-06-01,GT,South,Refrigerator,Top freezer,490.0,0.0,1.0,-1.0,-0.004045455
+2024-06-01,GT,South,Refrigerator,Multi doors,1.0,0.0,0.0,1.0,0.007681818
+2024-06-01,GT,South,Refrigerator,Side by Side,119.0,0.0,1.0,118.0,0.965727271
+2024-06-01,GT,Middle,RAC,Non Inverter,380.0,0.0,0.0,380.0,1.80863626
+2024-06-01,GT,Middle,RAC,Inverter,4932.0,827.0,0.0,4105.0,22.939499809
+2024-06-01,GT,Middle,Others,Air purifier,3.0,3.0,0.0,0.0,0.0
+2024-06-01,GT,Middle,Washing Machine,Front load,41.0,1.0,0.0,40.0,0.17318181
+2024-06-01,GT,Middle,Washing Machine,Top load,11.0,1.0,0.0,10.0,0.03045455
+2024-06-01,GT,Middle,Television,Small size,849.0,0.0,0.0,849.0,2.614045476
+2024-06-01,GT,Middle,Television,Large size,119.0,0.0,1.0,118.0,0.767227276
+2024-06-01,GT,Middle,Refrigerator,Mini,45.0,0.0,0.0,45.0,0.102272715
+2024-06-01,GT,Middle,Refrigerator,Top freezer,45.0,0.0,1.0,-1.0,-0.006909091
+2024-06-01,GT,Middle,Refrigerator,Multi doors,24.0,0.0,1.0,23.0,0.230863636
+2024-06-01,GT,Middle,Refrigerator,Side by Side,113.0,0.0,0.0,113.0,0.978181812
+2024-06-01,MT,North,CAC,Others,40.0,0.0,0.0,40.0,0.726525826
+2024-06-01,MT,North,RAC,Non Inverter,529.0,0.0,0.0,529.0,2.042988869
+2024-06-01,MT,North,RAC,Inverter,12112.0,0.0,11.0,12101.0,69.045093512
+2024-06-01,MT,North,Washing Machine,Dryer Machine,66.0,0.0,0.0,66.0,0.255647
+2024-06-01,MT,North,Washing Machine,Front load,214.0,0.0,1.0,213.0,1.002528967
+2024-06-01,MT,North,Washing Machine,Dryer Machine,23.0,0.0,0.0,23.0,0.141469911
+2024-06-01,MT,North,Washing Machine,Top load,330.0,0.0,0.0,330.0,0.862280712
+2024-06-01,MT,North,Television,Small size,247.0,0.0,1.0,246.0,1.129403504
+2024-06-01,MT,North,Television,Large size,241.0,0.0,5.0,236.0,1.838476843
+2024-06-01,MT,North,Refrigerator,Top freezer,241.0,0.0,1.0,-1.0,-0.005083636
+2024-06-01,MT,North,Refrigerator,Side by Side,103.0,0.0,0.0,103.0,1.075602821
+2024-06-01,MT,South,CAC,Others,1.0,0.0,0.0,1.0,0.028845455
+2024-06-01,MT,South,RAC,Inverter,7406.0,0.0,75.0,7331.0,46.007782058
+2024-06-01,MT,South,Others,Water Heater,7406.0,0.0,1.0,-1.0,-0.000909091
+2024-06-01,MT,South,Washing Machine,Dryer Machine,84.0,0.0,0.0,84.0,0.270574
+2024-06-01,MT,South,Washing Machine,Front load,275.0,0.0,2.0,273.0,1.21684494
+2024-06-01,MT,South,Washing Machine,Dryer Machine,9.0,0.0,0.0,9.0,0.051488184
+2024-06-01,MT,South,Washing Machine,Top load,590.0,0.0,1.0,589.0,1.391709704
+2024-06-01,MT,South,Television,Small size,517.0,0.0,4.0,513.0,1.362916794
+2024-06-01,MT,South,Television,Large size,709.0,0.0,3.0,706.0,3.844388608
+2024-06-01,MT,South,Refrigerator,Bottom freezer,709.0,0.0,4.0,-4.0,-0.02906182
+2024-06-01,MT,South,Refrigerator,Multi doors,709.0,0.0,1.0,-1.0,-0.011692909
+2024-06-01,MT,South,Refrigerator,Side by Side,201.0,0.0,2.0,199.0,2.004764202
+2024-06-01,MT,Middle,CAC,Others,3.0,0.0,0.0,3.0,0.076012365
+2024-06-01,MT,Middle,RAC,Non Inverter,78.0,0.0,0.0,78.0,0.290727294
+2024-06-01,MT,Middle,RAC,Inverter,7032.0,0.0,30.0,7002.0,37.424085638
+2024-06-01,MT,Middle,Washing Machine,Dryer Machine,17.0,0.0,1.0,16.0,0.049088
+2024-06-01,MT,Middle,Washing Machine,Front load,29.0,0.0,2.0,27.0,0.13025945
+2024-06-01,MT,Middle,Washing Machine,Top load,91.0,0.0,0.0,91.0,0.212507278
+2024-06-01,MT,Middle,Television,Small size,91.0,0.0,3.0,88.0,0.230910376
+2024-06-01,MT,Middle,Television,Large size,119.0,0.0,0.0,119.0,0.649090855
+2024-06-01,MT,Middle,Refrigerator,Mini,9.0,0.0,0.0,9.0,0.02088
+2024-06-01,MT,Middle,Refrigerator,Side by Side,29.0,0.0,0.0,29.0,0.277802908
+2024-06-01,Retail,North,RAC,Non Inverter,60.0,0.0,0.0,60.0,0.04900908
+2024-06-01,Retail,North,RAC,Inverter,36.0,0.0,0.0,36.0,0.214936367
+2024-06-01,Retail,North,Others,Air purifier,36.0,11.0,0.0,25.0,0.024572736
+2024-06-01,Retail,North,Washing Machine,Dryer Machine,2.0,0.0,0.0,2.0,0.004830455
+2024-06-01,Retail,North,Washing Machine,Front load,23.0,0.0,0.0,23.0,0.024582271
+2024-06-01,Retail,North,Washing Machine,Dryer Machine,2.0,0.0,0.0,2.0,0.002451818
+2024-06-01,Retail,North,Washing Machine,Top load,1.0,0.0,0.0,1.0,0.000680455
+2024-06-01,Retail,North,Television,Small size,2.0,0.0,0.0,2.0,0.006627272
+2024-06-01,Retail,North,Television,Large size,2.0,0.0,0.0,2.0,0.0096
+2024-06-01,Retail,North,Refrigerator,Bottom freezer,3.0,0.0,0.0,3.0,0.008079091
+2024-06-01,Retail,North,Refrigerator,Top freezer,17.0,0.0,0.0,17.0,0.024044998
+2024-06-01,Retail,North,Refrigerator,Multi doors,4.0,0.0,0.0,4.0,0.011588182
+2024-06-01,Retail,North,Refrigerator,Side by Side,5.0,0.0,0.0,5.0,0.01997591
+2024-06-01,Retail,South,RAC,Non Inverter,7.0,0.0,0.0,7.0,0.006363637
+2024-06-01,Retail,South,RAC,Inverter,2.0,2.0,0.0,0.0,0.0
+2024-06-01,Retail,South,Washing Machine,Front load,17.0,0.0,0.0,17.0,0.016636364
+2024-06-01,Retail,South,Washing Machine,Top load,2.0,0.0,0.0,2.0,0.001772728
+2024-06-01,Retail,South,Refrigerator,Bottom freezer,2.0,0.0,0.0,2.0,0.00290909
+2024-06-01,Retail,South,Refrigerator,Top freezer,22.0,0.0,0.0,22.0,0.03727273
+2024-06-01,Retail,South,Refrigerator,Multi doors,4.0,0.0,0.0,4.0,0.009545456
+2024-06-01,Retail,South,Refrigerator,Side by Side,8.0,0.0,0.0,8.0,0.015181819
+2024-06-01,Retail,Middle,RAC,Inverter,2.0,0.0,0.0,2.0,0.00839091
+2024-06-01,Retail,Middle,Washing Machine,Front load,1.0,0.0,0.0,1.0,0.003581818
+2024-06-01,Retail,Middle,Television,Small size,1.0,0.0,0.0,1.0,0.003854545
+2024-05-01,GT,North,CAC,Others,849.0,39.0,7.0,803.0,14.477111384
+2024-05-01,GT,North,RAC,Non Inverter,6062.0,0.0,110.0,5952.0,24.479046967
+2024-05-01,GT,North,RAC,Inverter,33949.0,0.0,342.0,33607.0,204.169225978
+2024-05-01,GT,North,Others,Water Heater,1.0,0.0,0.0,1.0,0.000763636
+2024-05-01,GT,North,Others,Air purifier,1.0,0.0,0.0,1.0,0.001336364
+2024-05-01,GT,North,Washing Machine,Dryer Machine,33.0,0.0,0.0,33.0,0.132300012
+2024-05-01,GT,North,Washing Machine,Front load,934.0,0.0,62.0,872.0,3.589249987
+2024-05-01,GT,North,Washing Machine,Dryer Machine,10.0,0.0,0.0,10.0,0.05327273
+2024-05-01,GT,North,Washing Machine,Top load,1078.0,0.0,0.0,1078.0,3.25900015
+2024-05-01,GT,North,Television,Small size,1517.0,5.0,0.0,1512.0,6.119454418
+2024-05-01,GT,North,Television,Large size,468.0,0.0,2.0,466.0,2.84290903
+2024-05-01,GT,North,Refrigerator,Bottom freezer,9.0,0.0,0.0,9.0,0.036818181
+2024-05-01,GT,North,Refrigerator,Top freezer,3.0,0.0,0.0,3.0,0.008081818
+2024-05-01,GT,North,Refrigerator,Side by Side,1360.0,0.0,0.0,1360.0,11.5345452
+2024-05-01,GT,South,CAC,Others,225.0,0.0,0.0,225.0,4.823436357
+2024-05-01,GT,South,RAC,Non Inverter,319.0,0.0,0.0,319.0,1.427227243
+2024-05-01,GT,South,RAC,Inverter,13298.0,1.0,0.0,13297.0,74.328363573
+2024-05-01,GT,South,Others,Water Heater,48.0,0.0,0.0,48.0,0.045054524
+2024-05-01,GT,South,Others,Air purifier,6.0,0.0,0.0,6.0,0.006109089
+2024-05-01,GT,South,Others,Water Heater,15.0,0.0,0.0,15.0,0.006681825
+2024-05-01,GT,South,Washing Machine,Dryer Machine,104.0,0.0,0.0,104.0,0.410581856
+2024-05-01,GT,South,Washing Machine,Front load,542.0,0.0,0.0,542.0,1.99596364
+2024-05-01,GT,South,Washing Machine,Dryer Machine,80.0,0.0,0.0,80.0,0.41054544
+2024-05-01,GT,South,Washing Machine,Top load,801.0,0.0,0.0,801.0,2.291204563
+2024-05-01,GT,South,Television,Small size,1383.0,20.0,0.0,1363.0,5.243908995
+2024-05-01,GT,South,Television,Large size,185.0,0.0,0.0,185.0,1.083454506
+2024-05-01,GT,South,Refrigerator,Bottom freezer,7.0,0.0,0.0,7.0,0.023772728
+2024-05-01,GT,South,Refrigerator,Top freezer,157.0,0.0,5.0,152.0,0.467899993
+2024-05-01,GT,South,Refrigerator,Multi doors,16.0,0.0,1.0,15.0,0.07973636
+2024-05-01,GT,South,Refrigerator,Side by Side,288.0,0.0,2.0,286.0,2.279309023
+2024-05-01,GT,Middle,CAC,Others,74.0,0.0,0.0,74.0,1.620636372
+2024-05-01,GT,Middle,RAC,Non Inverter,680.0,0.0,0.0,680.0,2.87454564
+2024-05-01,GT,Middle,RAC,Inverter,11288.0,0.0,0.0,11288.0,65.730816513
+2024-05-01,GT,Middle,Washing Machine,Front load,40.0,0.0,0.0,40.0,0.18818182
+2024-05-01,GT,Middle,Washing Machine,Top load,33.0,0.0,0.0,33.0,0.103500012
+2024-05-01,GT,Middle,Television,Small size,749.0,15.0,0.0,734.0,2.80199995
+2024-05-01,GT,Middle,Television,Large size,16.0,0.0,0.0,16.0,0.096363636
+2024-05-01,GT,Middle,Refrigerator,Mini,13.0,0.0,0.0,13.0,0.029545451
+2024-05-01,GT,Middle,Refrigerator,Bottom freezer,2.0,0.0,0.0,2.0,0.008181818
+2024-05-01,GT,Middle,Refrigerator,Multi doors,1.0,0.0,0.0,1.0,0.007727273
+2024-05-01,GT,Middle,Refrigerator,Side by Side,205.0,15.0,0.0,190.0,1.527636343
+2024-05-01,MT,North,CAC,Others,8.0,0.0,0.0,8.0,0.160000002
+2024-05-01,MT,North,RAC,Non Inverter,375.0,0.0,0.0,375.0,1.397181921
+2024-05-01,MT,North,RAC,Inverter,12132.0,0.0,6.0,12126.0,70.072748336
+2024-05-01,MT,North,Others,Water Heater,12132.0,0.0,1.0,-1.0,-0.000882818
+2024-05-01,MT,North,Washing Machine,Dryer Machine,139.0,0.0,0.0,139.0,0.560913
+2024-05-01,MT,North,Washing Machine,Front load,449.0,0.0,4.0,445.0,2.162314724
+2024-05-01,MT,North,Washing Machine,Dryer Machine,12.0,0.0,0.0,12.0,0.076905363
+2024-05-01,MT,North,Washing Machine,Top load,253.0,0.0,3.0,250.0,0.747737239
+2024-05-01,MT,North,Television,Small size,437.0,0.0,6.0,431.0,2.073878978
+2024-05-01,MT,North,Television,Large size,87.0,0.0,24.0,63.0,0.521758639
+2024-05-01,MT,North,Refrigerator,Mini,40.0,0.0,0.0,40.0,0.093525
+2024-05-01,MT,North,Refrigerator,Bottom freezer,76.0,0.0,0.0,76.0,0.317818168
+2024-05-01,MT,North,Refrigerator,Side by Side,255.0,0.0,0.0,255.0,2.269719298
+2024-05-01,MT,South,CAC,Others,3.0,0.0,0.0,3.0,0.076827273
+2024-05-01,MT,South,RAC,Non Inverter,7.0,0.0,0.0,7.0,0.025454548
+2024-05-01,MT,South,RAC,Inverter,18701.0,0.0,31.0,18670.0,114.846348138
+2024-05-01,MT,South,Washing Machine,Dryer Machine,275.0,0.0,0.0,275.0,1.234634
+2024-05-01,MT,South,Washing Machine,Front load,431.0,0.0,1.0,430.0,1.853151628
+2024-05-01,MT,South,Washing Machine,Dryer Machine,12.0,0.0,0.0,12.0,0.078458184
+2024-05-01,MT,South,Washing Machine,Top load,838.0,0.0,2.0,836.0,2.429303246
+2024-05-01,MT,South,Television,Small size,1203.0,0.0,1.0,1202.0,5.342214906
+2024-05-01,MT,South,Television,Large size,296.0,0.0,1.0,295.0,2.168049461
+2024-05-01,MT,South,Refrigerator,Mini,41.0,0.0,0.0,41.0,0.09483
+2024-05-01,MT,South,Refrigerator,Multi doors,41.0,0.0,2.0,-2.0,-0.023385818
+2024-05-01,MT,South,Refrigerator,Side by Side,629.0,0.0,1.0,628.0,5.835169116
+2024-05-01,MT,Middle,CAC,Others,2.0,0.0,0.0,2.0,0.0252
+2024-05-01,MT,Middle,RAC,Non Inverter,45.0,0.0,0.0,45.0,0.167727285
+2024-05-01,MT,Middle,RAC,Inverter,4314.0,0.0,12.0,4302.0,23.864014108
+2024-05-01,MT,Middle,Washing Machine,Dryer Machine,19.0,0.0,0.0,19.0,0.06608
+2024-05-01,MT,Middle,Washing Machine,Front load,36.0,0.0,1.0,35.0,0.169360083
+2024-05-01,MT,Middle,Washing Machine,Top load,57.0,0.0,0.0,57.0,0.179132181
+2024-05-01,MT,Middle,Television,Small size,110.0,0.0,2.0,108.0,0.501556716
+2024-05-01,MT,Middle,Television,Large size,17.0,0.0,1.0,16.0,0.174443182
+2024-05-01,MT,Middle,Refrigerator,Mini,17.0,0.0,0.0,17.0,0.03944
+2024-05-01,MT,Middle,Refrigerator,Side by Side,45.0,0.0,1.0,44.0,0.43133445
+2024-05-01,Retail,North,RAC,Non Inverter,16.0,0.0,0.0,16.0,0.06093636
+2024-05-01,Retail,North,RAC,Inverter,23.0,0.0,0.0,23.0,0.130036368
+2024-05-01,Retail,North,Others,Air purifier,17.0,10.0,0.0,7.0,0.005850002
+2024-05-01,Retail,North,Washing Machine,Front load,11.0,3.0,0.0,8.0,0.033922727
+2024-05-01,Retail,North,Washing Machine,Dryer Machine,1.0,0.0,0.0,1.0,0.005327273
+2024-05-01,Retail,North,Washing Machine,Top load,1.0,0.0,0.0,1.0,0.003045455
+2024-05-01,Retail,North,Television,Small size,2.0,0.0,0.0,2.0,0.007181818
+2024-05-01,Retail,North,Television,Large size,11.0,0.0,0.0,11.0,0.076301817
+2024-05-01,Retail,North,Refrigerator,Mini,1.0,0.0,0.0,1.0,0.002254545
+2024-05-01,Retail,North,Refrigerator,Bottom freezer,4.0,0.0,0.0,4.0,0.020604545
+2024-05-01,Retail,North,Refrigerator,Side by Side,1.0,0.0,0.0,1.0,0.007254545
+2024-05-01,Retail,South,RAC,Inverter,12.0,0.0,0.0,12.0,0.04849091
+2024-05-01,Retail,South,Others,Air purifier,1.0,0.0,0.0,1.0,0.001513636
+2024-05-01,Retail,South,Television,Small size,1.0,0.0,0.0,1.0,0.003854545
+2024-05-01,Retail,South,Television,Large size,1.0,0.0,0.0,1.0,0.018612727
+2024-05-01,Retail,Middle,RAC,Inverter,2.0,0.0,0.0,2.0,0.00929091
+2024-05-01,Retail,Middle,Others,Air purifier,1.0,0.0,0.0,1.0,0.000627273
+2024-05-01,Retail,Middle,Television,Large size,1.0,0.0,0.0,1.0,0.005190909
+2024-04-01,GT,North,CAC,Others,537.0,0.0,0.0,537.0,10.356578585
+2024-04-01,GT,North,RAC,Non Inverter,1848.0,0.0,2.0,1846.0,13.779909396
+2024-04-01,GT,North,RAC,Inverter,78464.0,0.0,0.0,78464.0,467.09627878
+2024-04-01,GT,North,Others,Water Heater,26.0,0.0,0.0,26.0,0.019854536
+2024-04-01,GT,North,Others,Air purifier,326.0,0.0,0.0,326.0,0.229955401
+2024-04-01,GT,North,Others,Water Heater,6.0,0.0,0.0,6.0,0.003818184
+2024-04-01,GT,North,Others,Cooker,4.0,0.0,0.0,4.0,0.001527272
+2024-04-01,GT,North,Washing Machine,Dryer Machine,50.0,0.0,0.0,50.0,0.2
+2024-04-01,GT,North,Washing Machine,Front load,1581.0,0.0,537.0,1044.0,4.624627322
+2024-04-01,GT,North,Washing Machine,Dryer Machine,52.0,0.0,0.0,52.0,0.28023634
+2024-04-01,GT,North,Washing Machine,Top load,1499.0,0.0,1.0,1498.0,4.515154637
+2024-04-01,GT,North,Television,Small size,1082.0,20.0,0.0,1062.0,3.186022769
+2024-04-01,GT,North,Television,Large size,1548.0,0.0,25.0,1523.0,8.828627405
+2024-04-01,GT,North,Refrigerator,Mini,3.0,0.0,0.0,3.0,0.003754545
+2024-04-01,GT,North,Refrigerator,Bottom freezer,383.0,0.0,0.0,383.0,2.385236363
+2024-04-01,GT,North,Refrigerator,Top freezer,36.0,0.0,0.0,36.0,0.114163635
+2024-04-01,GT,North,Refrigerator,Multi doors,9.0,0.0,0.0,9.0,0.051227271
+2024-04-01,GT,North,Refrigerator,Side by Side,396.0,0.0,0.0,396.0,3.31219093
+2024-04-01,GT,South,CAC,Others,107.0,0.0,0.0,107.0,2.152172713
+2024-04-01,GT,South,RAC,Non Inverter,130.0,0.0,0.0,130.0,0.79518178
+2024-04-01,GT,South,RAC,Inverter,16947.0,0.0,1699.0,15248.0,87.179773574
+2024-04-01,GT,South,Washing Machine,Dryer Machine,25.0,0.0,0.0,25.0,0.1
+2024-04-01,GT,South,Washing Machine,Front load,266.0,0.0,0.0,266.0,1.232472781
+2024-04-01,GT,South,Washing Machine,Dryer Machine,25.0,0.0,0.0,25.0,0.136363625
+2024-04-01,GT,South,Washing Machine,Top load,455.0,57.0,0.0,398.0,1.20327282
+2024-04-01,GT,South,Television,Small size,775.0,18.0,0.0,757.0,2.064386407
+2024-04-01,GT,South,Television,Large size,1050.0,0.0,0.0,1050.0,6.141400089
+2024-04-01,GT,South,Refrigerator,Mini,359.0,0.0,0.0,359.0,0.777672625
+2024-04-01,GT,South,Refrigerator,Top freezer,85.0,0.0,0.0,85.0,0.255490922
+2024-04-01,GT,South,Refrigerator,Multi doors,70.0,0.0,0.0,70.0,0.454190908
+2024-04-01,GT,South,Refrigerator,Side by Side,218.0,83.0,0.0,135.0,0.873668188
+2024-04-01,GT,Middle,CAC,Others,46.0,0.0,0.0,46.0,1.004454544
+2024-04-01,GT,Middle,RAC,Non Inverter,65.0,0.0,0.0,65.0,0.684090895
+2024-04-01,GT,Middle,RAC,Inverter,13804.0,0.0,0.0,13804.0,78.563137192
+2024-04-01,GT,Middle,Others,Water Heater,14.0,0.0,0.0,14.0,0.012409085
+2024-04-01,GT,Middle,Others,Air purifier,1.0,0.0,0.0,1.0,0.001336364
+2024-04-01,GT,Middle,Others,Water Heater,1.0,0.0,0.0,1.0,0.000590909
+2024-04-01,GT,Middle,Others,Water Heater,69.0,0.0,0.0,69.0,0.030736395
+2024-04-01,GT,Middle,Washing Machine,Dryer Machine,5.0,0.0,0.0,5.0,0.01368182
+2024-04-01,GT,Middle,Washing Machine,Front load,123.0,0.0,0.0,123.0,0.463577304
+2024-04-01,GT,Middle,Washing Machine,Dryer Machine,3.0,0.0,0.0,3.0,0.011263635
+2024-04-01,GT,Middle,Washing Machine,Top load,178.0,11.0,0.0,167.0,0.485227309
+2024-04-01,GT,Middle,Television,Small size,248.0,0.0,0.0,248.0,0.592254543
+2024-04-01,GT,Middle,Television,Large size,403.0,0.0,0.0,403.0,1.893309125
+2024-04-01,GT,Middle,Refrigerator,Mini,1.0,0.0,0.0,1.0,0.001145455
+2024-04-01,GT,Middle,Refrigerator,Bottom freezer,106.0,0.0,0.0,106.0,0.592527267
+2024-04-01,GT,Middle,Refrigerator,Top freezer,151.0,0.0,0.0,151.0,0.405354564
+2024-04-01,GT,Middle,Refrigerator,Multi doors,60.0,0.0,0.0,60.0,0.339181812
+2024-04-01,GT,Middle,Refrigerator,Side by Side,99.0,15.0,0.0,84.0,0.53458182
+2024-04-01,MT,North,CAC,Others,11.0,0.0,0.0,11.0,0.257786366
+2024-04-01,MT,North,RAC,Non Inverter,415.0,0.0,0.0,415.0,1.650454495
+2024-04-01,MT,North,RAC,Inverter,19166.0,0.0,11.0,19155.0,118.100880374
+2024-04-01,MT,North,Others,Air purifier,3464.0,0.0,0.0,3464.0,1.88945612
+2024-04-01,MT,North,Washing Machine,Dryer Machine,55.0,0.0,0.0,55.0,0.2596
+2024-04-01,MT,North,Washing Machine,Front load,559.0,0.0,13.0,546.0,2.671817785
+2024-04-01,MT,North,Washing Machine,Dryer Machine,50.0,0.0,0.0,50.0,0.32854364
+2024-04-01,MT,North,Washing Machine,Top load,359.0,0.0,0.0,359.0,1.150135248
+2024-04-01,MT,North,Television,Small size,609.0,0.0,0.0,609.0,2.758480176
+2024-04-01,MT,North,Refrigerator,Mini,68.0,0.0,0.0,68.0,0.15718
+2024-04-01,MT,North,Refrigerator,Bottom freezer,195.0,0.0,0.0,195.0,0.818538147
+2024-04-01,MT,North,Refrigerator,Side by Side,239.0,0.0,2.0,237.0,2.212508272
+2024-04-01,MT,South,CAC,Others,1.0,0.0,0.0,1.0,0.018181818
+2024-04-01,MT,South,RAC,Non Inverter,253.0,0.0,0.0,253.0,1.102160092
+2024-04-01,MT,South,RAC,Inverter,37965.0,0.0,13.0,37952.0,222.719025724
+2024-04-01,MT,South,Washing Machine,Dryer Machine,26.0,0.0,0.0,26.0,0.12213
+2024-04-01,MT,South,Washing Machine,Front load,525.0,0.0,3.0,522.0,2.484415019
+2024-04-01,MT,South,Washing Machine,Dryer Machine,10.0,0.0,0.0,10.0,0.06538182
+2024-04-01,MT,South,Washing Machine,Top load,634.0,0.0,2.0,632.0,2.077648269
+2024-04-01,MT,South,Television,Small size,1280.0,0.0,3.0,1277.0,5.895163542
+2024-04-01,MT,South,Television,Large size,1280.0,0.0,3.0,-3.0,-0.027692728
+2024-04-01,MT,South,Refrigerator,Mini,106.0,0.0,0.0,106.0,0.243368
+2024-04-01,MT,South,Refrigerator,Bottom freezer,72.0,0.0,0.0,72.0,0.52311276
+2024-04-01,MT,South,Refrigerator,Top freezer,72.0,0.0,2.0,-2.0,-0.01404
+2024-04-01,MT,South,Refrigerator,Multi doors,1.0,0.0,1.0,0.0,0.0
+2024-04-01,MT,South,Refrigerator,Side by Side,662.0,0.0,1.0,661.0,6.32225885
+2024-04-01,MT,Middle,RAC,Non Inverter,23.0,0.0,0.0,23.0,0.100196372
+2024-04-01,MT,Middle,RAC,Inverter,7449.0,0.0,0.0,7449.0,43.624482539
+2024-04-01,MT,Middle,Others,Water Heater,7449.0,0.0,1.0,-1.0,-0.001843636
+2024-04-01,MT,Middle,Washing Machine,Front load,62.0,0.0,0.0,62.0,0.305652714
+2024-04-01,MT,Middle,Washing Machine,Top load,69.0,0.0,0.0,69.0,0.230715824
+2024-04-01,MT,Middle,Television,Small size,221.0,0.0,0.0,221.0,1.012902926
+2024-04-01,MT,Middle,Refrigerator,Mini,19.0,0.0,0.0,19.0,0.043732
+2024-04-01,MT,Middle,Refrigerator,Bottom freezer,4.0,0.0,0.0,4.0,0.02906182
+2024-04-01,MT,Middle,Refrigerator,Top freezer,4.0,0.0,1.0,-1.0,-0.00702
+2024-04-01,MT,Middle,Refrigerator,Side by Side,61.0,0.0,0.0,61.0,0.60446407
+2024-04-01,Retail,North,RAC,Non Inverter,12.0,0.0,0.0,12.0,0.056545455
+2024-04-01,Retail,North,RAC,Inverter,57.0,0.0,0.0,57.0,0.302563641
+2024-04-01,Retail,North,Others,Air purifier,31.0,0.0,0.0,31.0,0.043759094
+2024-04-01,Retail,North,Washing Machine,Front load,17.0,0.0,0.0,17.0,0.065090912
+2024-04-01,Retail,North,Washing Machine,Dryer Machine,4.0,0.0,0.0,4.0,0.01818182
+2024-04-01,Retail,North,Television,Small size,5.0,0.0,0.0,5.0,0.017721817
+2024-04-01,Retail,North,Television,Large size,10.0,4.0,0.0,6.0,0.033409089
+2024-04-01,Retail,North,Refrigerator,Bottom freezer,3.0,0.0,0.0,3.0,0.01350909
+2024-04-01,Retail,North,Refrigerator,Side by Side,11.0,0.0,0.0,11.0,0.076754546
+2024-04-01,Retail,South,RAC,Inverter,7.0,0.0,0.0,7.0,0.032381817
+2024-04-01,Retail,South,Others,Air purifier,6.0,3.0,0.0,3.0,0.003272727
+2024-04-01,Retail,South,Washing Machine,Front load,2.0,0.0,0.0,2.0,0.0074
+2024-04-01,Retail,South,Washing Machine,Top load,2.0,0.0,0.0,2.0,0.00609091
+2024-04-01,Retail,South,Television,Large size,7.0,0.0,0.0,7.0,0.054545453
+2024-04-01,Retail,South,Refrigerator,Side by Side,3.0,0.0,0.0,3.0,0.020727273
+2024-04-01,Retail,Middle,RAC,Inverter,2.0,0.0,0.0,2.0,0.008927272
+2024-04-01,Retail,Middle,Washing Machine,Front load,1.0,0.0,0.0,1.0,0.003909091
+2024-04-01,Retail,Middle,Washing Machine,Dryer Machine,1.0,0.0,0.0,1.0,0.004545455
+2024-04-01,Retail,Middle,Television,Large size,2.0,0.0,0.0,2.0,0.011763636
+2024-04-01,Retail,Middle,Refrigerator,Bottom freezer,1.0,0.0,0.0,1.0,0.004372727
+2024-03-01,GT,North,CAC,Others,246.0,0.0,0.0,246.0,4.617004346
+2024-03-01,GT,North,RAC,Non Inverter,735.0,0.0,0.0,735.0,7.522527381
+2024-03-01,GT,North,RAC,Inverter,29089.0,0.0,0.0,29089.0,151.119278147
+2024-03-01,GT,North,Washing Machine,Dryer Machine,20.0,0.0,0.0,20.0,0.08
+2024-03-01,GT,North,Washing Machine,Front load,2843.0,0.0,0.0,2843.0,12.398681488
+2024-03-01,GT,North,Washing Machine,Dryer Machine,10.0,0.0,0.0,10.0,0.05454545
+2024-03-01,GT,North,Washing Machine,Top load,551.0,261.0,0.0,290.0,0.87727283
+2024-03-01,GT,North,Television,Small size,393.0,168.0,0.0,225.0,0.761590904
+2024-03-01,GT,North,Television,Large size,1076.0,0.0,0.0,1076.0,6.612590898
+2024-03-01,GT,North,Refrigerator,Mini,4.0,0.0,0.0,4.0,0.006727272
+2024-03-01,GT,North,Refrigerator,Bottom freezer,393.0,0.0,0.0,393.0,2.623636407
+2024-03-01,GT,North,Refrigerator,Top freezer,14.0,0.0,0.0,14.0,0.043636361
+2024-03-01,GT,North,Refrigerator,Multi doors,1.0,0.0,0.0,1.0,0.007454545
+2024-03-01,GT,North,Refrigerator,Side by Side,523.0,132.0,0.0,391.0,3.199454526
+2024-03-01,GT,South,CAC,Others,85.0,0.0,0.0,85.0,1.873718173
+2024-03-01,GT,South,RAC,Inverter,11372.0,0.0,0.0,11372.0,62.891955682
+2024-03-01,GT,South,Others,Air purifier,100.0,0.0,0.0,100.0,0.0636364
+2024-03-01,GT,South,Washing Machine,Dryer Machine,5.0,0.0,0.0,5.0,0.02
+2024-03-01,GT,South,Washing Machine,Front load,315.0,0.0,100.0,215.0,0.910227255
+2024-03-01,GT,South,Washing Machine,Top load,843.0,20.0,0.0,823.0,2.478091
+2024-03-01,GT,South,Television,Small size,870.0,60.0,1400.0,-590.0,-4.021454394
+2024-03-01,GT,South,Television,Large size,298.0,0.0,5.0,293.0,1.851354507
+2024-03-01,GT,South,Refrigerator,Mini,85.0,0.0,0.0,85.0,0.193181795
+2024-03-01,GT,South,Refrigerator,Bottom freezer,86.0,0.0,0.0,86.0,0.348909078
+2024-03-01,GT,South,Refrigerator,Multi doors,19.0,0.0,0.0,19.0,0.205272732
+2024-03-01,GT,South,Refrigerator,Side by Side,292.0,7.0,0.0,285.0,2.46136365
+2024-03-01,GT,Middle,CAC,Others,155.0,0.0,0.0,155.0,3.161999981
+2024-03-01,GT,Middle,RAC,Non Inverter,34.0,0.0,0.0,34.0,0.162709084
+2024-03-01,GT,Middle,RAC,Inverter,10135.0,0.0,0.0,10135.0,55.965228885
+2024-03-01,GT,Middle,Washing Machine,Dryer Machine,5.0,0.0,0.0,5.0,0.02
+2024-03-01,GT,Middle,Washing Machine,Front load,581.0,0.0,0.0,581.0,2.755227117
+2024-03-01,GT,Middle,Washing Machine,Top load,112.0,2.0,0.0,110.0,0.33909094
+2024-03-01,GT,Middle,Television,Small size,683.0,1.0,0.0,682.0,2.487363601
+2024-03-01,GT,Middle,Television,Large size,249.0,0.0,10.0,239.0,1.337318125
+2024-03-01,GT,Middle,Refrigerator,Mini,25.0,0.0,0.0,25.0,0.056818175
+2024-03-01,GT,Middle,Refrigerator,Bottom freezer,35.0,5.0,0.0,30.0,0.20727273
+2024-03-01,GT,Middle,Refrigerator,Top freezer,7.0,0.0,0.0,7.0,0.020772725
+2024-03-01,GT,Middle,Refrigerator,Multi doors,85.0,0.0,0.0,85.0,0.91809094
+2024-03-01,GT,Middle,Refrigerator,Side by Side,69.0,6.0,0.0,63.0,0.510545449
+2024-03-01,MT,North,RAC,Non Inverter,33.0,0.0,0.0,33.0,0.123000009
+2024-03-01,MT,North,RAC,Inverter,8486.0,0.0,10.0,8476.0,53.256101491
+2024-03-01,MT,North,Others,Air purifier,1440.0,0.0,0.0,1440.0,0.7854552
+2024-03-01,MT,North,Washing Machine,Dryer Machine,33.0,0.0,0.0,33.0,0.156822
+2024-03-01,MT,North,Washing Machine,Front load,1017.0,0.0,2.0,1015.0,4.458959948
+2024-03-01,MT,North,Washing Machine,Dryer Machine,65.0,0.0,0.0,65.0,0.430294085
+2024-03-01,MT,North,Washing Machine,Top load,647.0,0.0,0.0,647.0,1.917245357
+2024-03-01,MT,North,Television,Small size,380.0,0.0,3.0,377.0,1.727291497
+2024-03-01,MT,North,Television,Large size,150.0,0.0,11.0,139.0,0.659221826
+2024-03-01,MT,North,Refrigerator,Mini,8.0,0.0,0.0,8.0,0.018792
+2024-03-01,MT,North,Refrigerator,Bottom freezer,240.0,0.0,0.0,240.0,1.1269818
+2024-03-01,MT,North,Refrigerator,Side by Side,23.0,0.0,0.0,23.0,0.177549535
+2024-03-01,MT,South,RAC,Non Inverter,92.0,0.0,0.0,92.0,0.400785488
+2024-03-01,MT,South,RAC,Inverter,21350.0,0.0,18.0,21332.0,120.454481677
+2024-03-01,MT,South,Washing Machine,Front load,532.0,0.0,2.0,530.0,2.255545378
+2024-03-01,MT,South,Washing Machine,Top load,857.0,0.0,1.0,856.0,2.431154044
+2024-03-01,MT,South,Television,Small size,321.0,0.0,8.0,313.0,1.583594637
+2024-03-01,MT,South,Television,Large size,321.0,0.0,5.0,-5.0,-0.033507455
+2024-03-01,MT,South,Refrigerator,Mini,9.0,0.0,0.0,9.0,0.02059
+2024-03-01,MT,South,Refrigerator,Bottom freezer,13.0,0.0,0.0,13.0,0.094450915
+2024-03-01,MT,South,Refrigerator,Top freezer,13.0,0.0,2.0,-2.0,-0.01404
+2024-03-01,MT,South,Refrigerator,Multi doors,91.0,0.0,2.0,89.0,1.037832537
+2024-03-01,MT,South,Refrigerator,Side by Side,414.0,0.0,8.0,406.0,3.879281728
+2024-03-01,MT,Middle,RAC,Non Inverter,4.0,0.0,0.0,4.0,0.017425456
+2024-03-01,MT,Middle,RAC,Inverter,2540.0,0.0,0.0,2540.0,15.275929224
+2024-03-01,MT,Middle,Washing Machine,Front load,75.0,0.0,0.0,75.0,0.337217658
+2024-03-01,MT,Middle,Washing Machine,Top load,44.0,0.0,0.0,44.0,0.126900183
+2024-03-01,MT,Middle,Television,Small size,74.0,0.0,1.0,73.0,0.328500532
+2024-03-01,MT,Middle,Television,Large size,74.0,0.0,2.0,-2.0,-0.014304546
+2024-03-01,MT,Middle,Refrigerator,Multi doors,2.0,0.0,0.0,2.0,0.023385818
+2024-03-01,MT,Middle,Refrigerator,Side by Side,45.0,0.0,1.0,44.0,0.3805429
+2024-03-01,Others,North,RAC,Non Inverter,31.0,0.0,0.0,31.0,0.110609082
+2024-03-01,Others,North,RAC,Inverter,11.0,2.0,0.0,9.0,0.049809091
+2024-03-01,Others,North,Others,Air purifier,52.0,39.0,0.0,13.0,0.024518185
+2024-03-01,Others,North,Washing Machine,Dryer Machine,1.0,0.0,0.0,1.0,0.0039
+2024-03-01,Others,North,Washing Machine,Front load,16.0,0.0,0.0,16.0,0.062764546
+2024-03-01,Others,North,Washing Machine,Dryer Machine,1.0,0.0,0.0,1.0,0.005190909
+2024-03-01,Others,North,Washing Machine,Top load,1.0,0.0,0.0,1.0,0.003045455
+2024-03-01,Others,North,Television,Small size,10.0,6.0,0.0,4.0,0.01400091
+2024-03-01,Others,North,Television,Large size,4.0,3.0,0.0,1.0,0.014681818
+2024-03-01,Others,North,Refrigerator,Bottom freezer,1.0,1.0,0.0,0.0,0.0
+2024-03-01,Others,North,Refrigerator,Side by Side,1.0,0.0,0.0,1.0,0.007654545
+2024-03-01,Others,South,RAC,Inverter,4.0,0.0,0.0,4.0,0.017854546
+2024-03-01,Others,South,Others,Air purifier,2.0,2.0,0.0,0.0,0.0
+2024-03-01,Others,South,Washing Machine,Front load,2.0,0.0,0.0,2.0,0.007218182
+2024-03-01,Others,South,Washing Machine,Top load,2.0,0.0,0.0,2.0,0.00609091
+2024-03-01,Others,South,Television,Small size,2.0,0.0,0.0,2.0,0.006081818
+2024-03-01,Others,South,Television,Large size,2.0,0.0,0.0,2.0,0.029363636
+2024-03-01,Others,Middle,RAC,Non Inverter,2.0,0.0,0.0,2.0,0.016567272
+2024-03-01,Others,Middle,RAC,Inverter,1.0,1.0,0.0,0.0,0.0
+2024-03-01,Others,Middle,Television,Small size,1.0,0.0,0.0,1.0,0.003809091
+2024-03-01,Others,Middle,Refrigerator,Bottom freezer,1.0,0.0,0.0,1.0,0.004927273
+2024-02-01,GT,North,RAC,Non Inverter,67.0,42.0,750.0,-725.0,-5.175000275
+2024-02-01,GT,North,RAC,Inverter,30422.0,15.0,975.0,29432.0,156.657367577
+2024-02-01,GT,North,Television,Small size,1546.0,0.0,0.0,1546.0,5.781272632
+2024-02-01,GT,North,Television,Large size,493.0,0.0,0.0,493.0,3.16227263
+2024-02-01,GT,North,Refrigerator,Mini,10.0,0.0,0.0,10.0,0.02272727
+2024-02-01,GT,North,Refrigerator,Bottom freezer,140.0,0.0,0.0,140.0,1.00545452
+2024-02-01,GT,North,Refrigerator,Multi doors,145.0,0.0,0.0,145.0,1.57509096
+2024-02-01,GT,North,Refrigerator,Side by Side,689.0,0.0,0.0,689.0,5.600545534
+2024-02-01,GT,North,Washing Machine,Dryer Machine,178.0,0.0,0.0,178.0,0.712
+2024-02-01,GT,North,Washing Machine,Front load,803.0,0.0,1186.0,-383.0,-2.438545474
+2024-02-01,GT,North,Washing Machine,Dryer Machine,161.0,0.0,0.0,161.0,0.901818137
+2024-02-01,GT,North,Washing Machine,Top load,1704.0,1.0,0.0,1703.0,5.16509125
+2024-02-01,GT,North,CAC,Others,86.0,0.0,0.0,86.0,2.091136361
+2024-02-01,GT,South,RAC,Inverter,8126.0,135.0,0.0,7991.0,42.031002264
+2024-02-01,GT,South,Television,Small size,738.0,16.0,0.0,722.0,2.554409026
+2024-02-01,GT,South,Television,Large size,92.0,2.0,5.0,85.0,0.527300015
+2024-02-01,GT,South,Washing Machine,Front load,90.0,0.0,2.0,88.0,0.37786363
+2024-02-01,GT,South,Washing Machine,Top load,536.0,0.0,0.0,536.0,1.611227305
+2024-02-01,GT,South,Refrigerator,Bottom freezer,26.0,0.0,0.0,26.0,0.186727268
+2024-02-01,GT,South,Refrigerator,Side by Side,72.0,0.0,0.0,72.0,0.560181824
+2024-02-01,GT,South,CAC,Others,12.0,0.0,0.0,12.0,0.221909092
+2024-02-01,GT,South,Others,Air purifier,3.0,3.0,0.0,0.0,0.0
+2024-02-01,GT,South,Others,Cooker,1.0,1.0,0.0,0.0,0.0
+2024-02-01,GT,Middle,RAC,Non Inverter,364.0,0.0,0.0,364.0,3.937818248
+2024-02-01,GT,Middle,RAC,Inverter,5685.0,0.0,0.0,5685.0,32.83381889
+2024-02-01,GT,Middle,Television,Small size,330.0,0.0,0.0,330.0,1.16454544
+2024-02-01,GT,Middle,Television,Large size,235.0,0.0,0.0,235.0,1.48909084
+2024-02-01,GT,Middle,Washing Machine,Dryer Machine,30.0,0.0,0.0,30.0,0.12
+2024-02-01,GT,Middle,Washing Machine,Front load,86.0,0.0,0.0,86.0,0.427227261
+2024-02-01,GT,Middle,Washing Machine,Top load,32.0,0.0,0.0,32.0,0.097454554
+2024-02-01,GT,Middle,Refrigerator,Mini,8.0,2.0,0.0,6.0,0.013636362
+2024-02-01,GT,Middle,Refrigerator,Bottom freezer,27.0,10.0,0.0,17.0,0.122090906
+2024-02-01,GT,Middle,Refrigerator,Multi doors,12.0,0.0,0.0,12.0,0.116727276
+2024-02-01,GT,Middle,Refrigerator,Side by Side,31.0,0.0,0.0,31.0,0.252318188
+2024-02-01,MT,North,Television,Small size,120.0,0.0,2.0,118.0,0.563981458
+2024-02-01,MT,North,Television,Large size,927.0,0.0,27.0,900.0,4.83001453
+2024-02-01,MT,North,Refrigerator,Mini,15.0,0.0,0.0,15.0,0.034365
+2024-02-01,MT,North,Refrigerator,Side by Side,529.0,0.0,0.0,529.0,4.896893005
+2024-02-01,MT,North,Washing Machine,Dryer Machine,130.0,0.0,0.0,130.0,0.6195
+2024-02-01,MT,North,Washing Machine,Front load,205.0,0.0,3.0,202.0,1.055990703
+2024-02-01,MT,North,Washing Machine,Dryer Machine,120.0,0.0,0.0,120.0,0.79112
+2024-02-01,MT,North,Washing Machine,Top load,488.0,0.0,0.0,488.0,1.484081028
+2024-02-01,MT,North,RAC,Inverter,125.0,0.0,0.0,125.0,0.71352271
+2024-02-01,MT,North,Others,Air purifier,800.0,0.0,0.0,800.0,0.436364
+2024-02-01,MT,North,CAC,Others,6.0,0.0,0.0,6.0,0.156545454
+2024-02-01,MT,South,RAC,Non Inverter,56.0,0.0,0.0,56.0,0.243956384
+2024-02-01,MT,South,RAC,Inverter,11128.0,0.0,9.0,11119.0,55.963218269
+2024-02-01,MT,South,Refrigerator,Mini,22.0,0.0,0.0,22.0,0.049764
+2024-02-01,MT,South,Refrigerator,Top freezer,22.0,0.0,1.0,-1.0,-0.00702
+2024-02-01,MT,South,Refrigerator,Multi doors,111.0,0.0,2.0,109.0,1.274527081
+2024-02-01,MT,South,Refrigerator,Side by Side,636.0,0.0,2.0,634.0,5.154649151
+2024-02-01,MT,South,Washing Machine,Front load,404.0,0.0,2.0,402.0,1.935557559
+2024-02-01,MT,South,Washing Machine,Top load,252.0,0.0,0.0,252.0,0.805370188
+2024-02-01,MT,South,Television,Small size,45.0,0.0,3.0,42.0,0.171302175
+2024-02-01,MT,South,Television,Large size,94.0,0.0,1.0,93.0,1.005508641
+2024-02-01,MT,South,Others,Air purifier,94.0,0.0,1.0,-1.0,-0.005091545
+2024-02-01,MT,Middle,RAC,Non Inverter,2.0,0.0,0.0,2.0,0.008712728
+2024-02-01,MT,Middle,RAC,Inverter,953.0,0.0,8.0,945.0,5.16704459
+2024-02-01,MT,Middle,Refrigerator,Multi doors,19.0,0.0,0.0,19.0,0.222165271
+2024-02-01,MT,Middle,Refrigerator,Side by Side,41.0,0.0,0.0,41.0,0.345109626
+2024-02-01,MT,Middle,Washing Machine,Front load,69.0,0.0,0.0,69.0,0.310547736
+2024-02-01,MT,Middle,Washing Machine,Top load,30.0,0.0,0.0,30.0,0.087272186
+2024-02-01,MT,Middle,Television,Small size,19.0,0.0,1.0,18.0,0.101981448
+2024-02-01,MT,Middle,Television,Large size,9.0,0.0,3.0,6.0,0.079045909
+2024-02-01,Retail,North,Television,Small size,3.0,0.0,0.0,3.0,0.011027273
+2024-02-01,Retail,North,Television,Large size,7.0,0.0,0.0,7.0,0.084190908
+2024-02-01,Retail,North,RAC,Non Inverter,9.0,0.0,0.0,9.0,0.041945457
+2024-02-01,Retail,North,RAC,Inverter,10.0,0.0,0.0,10.0,0.048509094
+2024-02-01,Retail,North,Washing Machine,Dryer Machine,3.0,0.0,0.0,3.0,0.0117
+2024-02-01,Retail,North,Washing Machine,Front load,7.0,1.0,0.0,6.0,0.022327272
+2024-02-01,Retail,North,Washing Machine,Dryer Machine,10.0,0.0,0.0,10.0,0.051954545
+2024-02-01,Retail,North,Refrigerator,Multi doors,2.0,0.0,0.0,2.0,0.0172
+2024-02-01,Retail,North,Refrigerator,Side by Side,1.0,0.0,0.0,1.0,0.007481818
+2024-02-01,Retail,North,Others,Air purifier,5.0,1.0,0.0,4.0,0.003768182
+2024-02-01,Retail,South,Others,Air purifier,24.0,20.0,0.0,4.0,0.003968183
+2024-02-01,Retail,South,RAC,Inverter,1.0,0.0,0.0,1.0,0.003945455
+2024-02-01,Retail,South,Washing Machine,Top load,1.0,0.0,0.0,1.0,0.003045455
+2024-02-01,Retail,South,Television,Small size,5.0,4.0,0.0,1.0,0.002772727
+2024-02-01,Retail,South,Television,Large size,1.0,1.0,0.0,0.0,0.0
+2024-02-01,Retail,Middle,Refrigerator,Multi doors,2.0,0.0,0.0,2.0,0.017045455
+2024-02-01,Retail,Middle,RAC,Inverter,1.0,0.0,0.0,1.0,0.005427273
+2024-02-01,Retail,Middle,Television,Small size,1.0,0.0,0.0,1.0,0.004045455
+2024-01-01,GT,North,CAC,Others,82.0,0.0,0.0,82.0,1.785952904
+2024-01-01,GT,North,RAC,Non Inverter,198.0,55.0,0.0,143.0,0.715
+2024-01-01,GT,North,RAC,Inverter,22546.0,477.0,150.0,21919.0,117.655931804
+2024-01-01,GT,North,Others,Air purifier,120.0,120.0,0.0,0.0,0.0
+2024-01-01,GT,North,Washing Machine,Dryer Machine,250.0,0.0,0.0,250.0,1.11363625
+2024-01-01,GT,North,Washing Machine,Front load,2078.0,0.0,0.0,2078.0,9.654636041
+2024-01-01,GT,North,Washing Machine,Dryer Machine,1091.0,0.0,0.0,1091.0,6.446818281
+2024-01-01,GT,North,Washing Machine,Top load,1156.0,336.0,0.0,820.0,2.553727386
+2024-01-01,GT,North,Television,Small size,1314.0,1.0,0.0,1313.0,6.595636376
+2024-01-01,GT,North,Television,Large size,486.0,1.0,7.0,478.0,3.342463584
+2024-01-01,GT,North,Refrigerator,Mini,168.0,0.0,0.0,168.0,0.381818136
+2024-01-01,GT,North,Refrigerator,Bottom freezer,121.0,0.0,0.0,121.0,0.868999978
+2024-01-01,GT,North,Refrigerator,Multi doors,697.0,2.0,0.0,695.0,7.202545687
+2024-01-01,GT,North,Refrigerator,Side by Side,549.0,49.0,0.0,500.0,4.27409102
+2024-01-01,GT,South,CAC,Others,47.0,0.0,0.0,47.0,1.060863639
+2024-01-01,GT,South,RAC,Non Inverter,141.0,40.0,0.0,101.0,0.431545427
+2024-01-01,GT,South,RAC,Inverter,15421.0,0.0,1.0,15420.0,86.117594013
+2024-01-01,GT,South,Others,Air purifier,209.0,9.0,0.0,200.0,0.1272728
+2024-01-01,GT,South,Others,Water Heater,1.0,1.0,0.0,0.0,0.0
+2024-01-01,GT,South,Washing Machine,Dryer Machine,86.0,36.0,0.0,50.0,0.22272725
+2024-01-01,GT,South,Washing Machine,Front load,96.0,0.0,0.0,96.0,0.426863615
+2024-01-01,GT,South,Washing Machine,Top load,1568.0,994.0,0.0,574.0,1.840681887
+2024-01-01,GT,South,Television,Small size,1506.0,0.0,0.0,1506.0,4.896545568
+2024-01-01,GT,South,Television,Large size,282.0,3.0,0.0,279.0,1.62695455
+2024-01-01,GT,South,Refrigerator,Mini,64.0,7.0,0.0,57.0,0.129545439
+2024-01-01,GT,South,Refrigerator,Bottom freezer,83.0,32.0,0.0,51.0,0.366272718
+2024-01-01,GT,South,Refrigerator,Multi doors,246.0,0.0,0.0,246.0,2.681090993
+2024-01-01,GT,South,Refrigerator,Side by Side,57.0,0.0,0.0,57.0,0.445636374
+2024-01-01,GT,Middle,CAC,Others,31.0,0.0,0.0,31.0,0.579872727
+2024-01-01,GT,Middle,RAC,Non Inverter,2.0,0.0,0.0,2.0,0.008545454
+2024-01-01,GT,Middle,RAC,Inverter,6338.0,0.0,0.0,6338.0,34.643528292
+2024-01-01,GT,Middle,Washing Machine,Dryer Machine,2.0,0.0,0.0,2.0,0.00890909
+2024-01-01,GT,Middle,Washing Machine,Front load,18.0,0.0,0.0,18.0,0.08809091
+2024-01-01,GT,Middle,Washing Machine,Dryer Machine,3.0,0.0,0.0,3.0,0.017727273
+2024-01-01,GT,Middle,Washing Machine,Top load,32.0,0.0,0.0,32.0,0.126000004
+2024-01-01,GT,Middle,Television,Small size,234.0,0.0,0.0,234.0,0.845454528
+2024-01-01,GT,Middle,Television,Large size,60.0,0.0,0.0,60.0,0.41272727
+2024-01-01,GT,Middle,Refrigerator,Mini,46.0,5.0,0.0,41.0,0.093181807
+2024-01-01,GT,Middle,Refrigerator,Bottom freezer,25.0,14.0,0.0,11.0,0.078999998
+2024-01-01,GT,Middle,Refrigerator,Top freezer,32.0,0.0,0.0,32.0,0.207090912
+2024-01-01,GT,Middle,Refrigerator,Multi doors,52.0,0.0,0.0,52.0,0.503090926
+2024-01-01,GT,Middle,Refrigerator,Side by Side,52.0,0.0,0.0,52.0,0.443045466
+2024-01-01,MT,North,RAC,Inverter,59.0,0.0,3.0,56.0,0.383121449
+2024-01-01,MT,North,Others,Air purifier,1164.0,0.0,0.0,1164.0,0.63490962
+2024-01-01,MT,North,Washing Machine,Dryer Machine,267.0,0.0,0.0,267.0,1.275993
+2024-01-01,MT,North,Washing Machine,Front load,1321.0,0.0,3.0,1318.0,6.57618498
+2024-01-01,MT,North,Washing Machine,Dryer Machine,77.0,0.0,0.0,77.0,0.509732993
+2024-01-01,MT,North,Washing Machine,Top load,375.0,0.0,0.0,375.0,1.039655893
+2024-01-01,MT,North,Television,Small size,30.0,0.0,11.0,19.0,0.062816187
+2024-01-01,MT,North,Television,Large size,1439.0,0.0,26.0,1413.0,11.003120126
+2024-01-01,MT,North,Refrigerator,Mini,30.0,0.0,0.0,30.0,0.062234
+2024-01-01,MT,North,Refrigerator,Side by Side,320.0,0.0,0.0,320.0,2.774224796
+2024-01-01,MT,South,RAC,Non Inverter,40.0,0.0,0.0,40.0,0.17425456
+2024-01-01,MT,South,RAC,Inverter,6826.0,0.0,13.0,6813.0,38.719272987
+2024-01-01,MT,South,Others,Air purifier,2.0,2.0,0.0,0.0,0.0
+2024-01-01,MT,South,Others,Water Heater,2.0,0.0,7.0,-7.0,-0.010401829
+2024-01-01,MT,South,Washing Machine,Dryer Machine,10.0,0.0,0.0,10.0,0.04602
+2024-01-01,MT,South,Washing Machine,Front load,694.0,0.0,1.0,693.0,2.960908832
+2024-01-01,MT,South,Washing Machine,Top load,241.0,0.0,0.0,241.0,0.69056016
+2024-01-01,MT,South,Television,Small size,864.0,0.0,15.0,849.0,4.151946879
+2024-01-01,MT,South,Television,Large size,711.0,0.0,18.0,693.0,7.140901779
+2024-01-01,MT,South,Refrigerator,Mini,38.0,0.0,0.0,38.0,0.067121004
+2024-01-01,MT,South,Refrigerator,Top freezer,38.0,0.0,3.0,-3.0,-0.02106
+2024-01-01,MT,South,Refrigerator,Multi doors,226.0,0.0,1.0,225.0,2.630904525
+2024-01-01,MT,South,Refrigerator,Side by Side,601.0,0.0,2.0,599.0,4.894246735
+2024-01-01,MT,Middle,RAC,Non Inverter,3.0,0.0,0.0,3.0,0.013069092
+2024-01-01,MT,Middle,RAC,Inverter,159.0,0.0,0.0,159.0,0.95607816
+2024-01-01,MT,Middle,Washing Machine,Front load,88.0,0.0,0.0,88.0,0.374694746
+2024-01-01,MT,Middle,Washing Machine,Top load,34.0,0.0,0.0,34.0,0.100765635
+2024-01-01,MT,Middle,Television,Small size,219.0,0.0,0.0,219.0,1.091865216
+2024-01-01,MT,Middle,Television,Large size,136.0,0.0,0.0,136.0,1.476829112
+2024-01-01,MT,Middle,Refrigerator,Mini,1.0,0.0,0.0,1.0,0.00145
+2024-01-01,MT,Middle,Refrigerator,Multi doors,33.0,0.0,0.0,33.0,0.385865997
+2024-01-01,MT,Middle,Refrigerator,Side by Side,61.0,0.0,0.0,61.0,0.509143257
+2024-01-01,Retail,North,RAC,Non Inverter,5.0,5.0,0.0,0.0,0.0
+2024-01-01,Retail,North,RAC,Inverter,11.0,5.0,0.0,6.0,0.0444
+2024-01-01,Retail,North,Others,Air purifier,79.0,62.0,0.0,17.0,0.015981819
+2024-01-01,Retail,North,Washing Machine,Dryer Machine,7.0,0.0,0.0,7.0,0.026981815
+2024-01-01,Retail,North,Washing Machine,Front load,18.0,6.0,0.0,12.0,0.049166817
+2024-01-01,Retail,North,Washing Machine,Dryer Machine,14.0,0.0,0.0,14.0,0.073309096
+2024-01-01,Retail,North,Washing Machine,Top load,4.0,2.0,0.0,2.0,0.005890909
+2024-01-01,Retail,North,Television,Small size,11.0,9.0,0.0,2.0,0.008566819
+2024-01-01,Retail,North,Television,Large size,9.0,4.0,0.0,5.0,0.066454544
+2024-01-01,Retail,North,Refrigerator,Bottom freezer,1.0,1.0,0.0,0.0,0.0
+2024-01-01,Retail,North,Refrigerator,Top freezer,1.0,0.0,0.0,1.0,0.004609091
+2024-01-01,Retail,North,Refrigerator,Multi doors,1.0,0.0,0.0,1.0,0.008318182
+2024-01-01,Retail,North,Refrigerator,Side by Side,3.0,2.0,0.0,1.0,0.007218182
+2024-01-01,Retail,South,CAC,Others,1.0,0.0,0.0,1.0,0.026393182
+2024-01-01,Retail,South,RAC,Inverter,2.0,1.0,0.0,1.0,0.003954545
+2024-01-01,Retail,South,Others,Air purifier,8.0,7.0,0.0,1.0,0.000627273
+2024-01-01,Retail,South,Washing Machine,Top load,1.0,0.0,0.0,1.0,0.003727273
+2024-01-01,Retail,South,Television,Small size,4.0,4.0,0.0,0.0,0.0
+2024-01-01,Retail,South,Television,Large size,3.0,2.0,0.0,1.0,0.008891818
+2024-01-01,Retail,South,Refrigerator,Multi doors,4.0,0.0,0.0,4.0,0.046545456
+2024-01-01,Retail,Middle,RAC,Inverter,17.0,17.0,0.0,0.0,0.0
+2024-01-01,Retail,Middle,Others,Air purifier,1.0,0.0,0.0,1.0,0.001
+2024-01-01,Retail,Middle,Washing Machine,Front load,3.0,3.0,0.0,0.0,0.0
+2024-01-01,Retail,Middle,Washing Machine,Top load,2.0,1.0,0.0,1.0,0.002390909
+2024-01-01,Retail,Middle,Television,Large size,4.0,4.0,0.0,0.0,0.0
+2024-01-01,Retail,Middle,Refrigerator,Side by Side,1.0,0.0,0.0,1.0,0.007218182
+2024-11-01,GT,North,CAC,Others,252.0,46.0,15.0,191.0,3.788345458
+2024-11-01,GT,North,RAC,Non Inverter,2600.0,0.0,1.0,2599.0,11.071000918
+2024-11-01,GT,North,RAC,Inverter,2961.0,1762.0,5.0,1194.0,8.598136343
+2024-11-01,GT,North,Washing Machine,Dryer Machine,108.0,0.0,0.0,108.0,0.486
+2024-11-01,GT,North,Washing Machine,Front load,2022.0,0.0,0.0,2022.0,11.488635996
+2024-11-01,GT,North,Washing Machine,Dryer Machine,93.0,0.0,0.0,93.0,0.545318148
+2024-11-01,GT,North,Washing Machine,Top load,3042.0,230.0,0.0,2812.0,10.664817975
+2024-11-01,GT,North,Television,Small size,2291.0,0.0,0.0,2291.0,10.432182201
+2024-11-01,GT,North,Television,Large size,115.0,0.0,0.0,115.0,0.76840907
+2024-11-01,GT,North,Refrigerator,Multi doors,345.0,0.0,0.0,345.0,3.16681812
+2024-11-01,GT,North,Refrigerator,Side by Side,682.0,0.0,0.0,682.0,5.859454484
+2024-11-01,GT,South,CAC,Others,161.0,0.0,0.0,161.0,3.91466365
+2024-11-01,GT,South,RAC,Non Inverter,105.0,0.0,0.0,105.0,0.46977275
+2024-11-01,GT,South,RAC,Inverter,4622.0,0.0,0.0,4622.0,26.778181874
+2024-11-01,GT,South,Washing Machine,Dryer Machine,2.0,0.0,0.0,2.0,0.009
+2024-11-01,GT,South,Washing Machine,Front load,182.0,0.0,0.0,182.0,1.014090876
+2024-11-01,GT,South,Washing Machine,Dryer Machine,10.0,0.0,0.0,10.0,0.05863636
+2024-11-01,GT,South,Washing Machine,Top load,550.0,84.0,0.0,466.0,1.666136285
+2024-11-01,GT,South,Television,Small size,965.0,6.0,0.0,959.0,4.230000086
+2024-11-01,GT,South,Television,Large size,400.0,0.0,0.0,400.0,2.6727272
+2024-11-01,GT,South,Refrigerator,Mini,300.0,0.0,0.0,300.0,0.8181819
+2024-11-01,GT,South,Refrigerator,Multi doors,58.0,0.0,0.0,58.0,0.532545444
+2024-11-01,GT,South,Refrigerator,Side by Side,256.0,0.0,0.0,256.0,2.151999954
+2024-11-01,GT,Middle,CAC,Others,15.0,0.0,0.0,15.0,0.432681825
+2024-11-01,GT,Middle,RAC,Non Inverter,50.0,0.0,0.0,50.0,0.2068182
+2024-11-01,GT,Middle,RAC,Inverter,541.0,0.0,0.0,541.0,2.896636395
+2024-11-01,GT,Middle,Washing Machine,Front load,207.0,0.0,0.0,207.0,1.159772691
+2024-11-01,GT,Middle,Washing Machine,Top load,339.0,70.0,0.0,269.0,1.017454527
+2024-11-01,GT,Middle,Television,Small size,275.0,10.0,0.0,265.0,1.178727323
+2024-11-01,GT,Middle,Television,Large size,570.0,0.0,0.0,570.0,3.80863626
+2024-11-01,GT,Middle,Refrigerator,Multi doors,33.0,0.0,0.0,33.0,0.302999994
+2024-11-01,GT,Middle,Refrigerator,Side by Side,71.0,0.0,0.0,71.0,0.611090904
+2024-11-01,MT,North,CAC,Others,2.0,0.0,0.0,2.0,0.05067491
+2024-11-01,MT,North,RAC,Inverter,310.0,0.0,1.0,309.0,2.516338002
+2024-11-01,MT,North,Washing Machine,Dryer Machine,55.0,0.0,0.0,55.0,0.260721
+2024-11-01,MT,North,Washing Machine,Front load,430.0,0.0,3.0,427.0,2.110934887
+2024-11-01,MT,North,Washing Machine,Dryer Machine,16.0,0.0,0.0,16.0,0.104610912
+2024-11-01,MT,North,Washing Machine,Top load,733.0,0.0,0.0,733.0,2.310028084
+2024-11-01,MT,North,Television,Small size,135.0,0.0,2.0,133.0,0.387245259
+2024-11-01,MT,North,Television,Large size,11.0,0.0,47.0,-36.0,-0.355231089
+2024-11-01,MT,North,Refrigerator,Multi doors,35.0,0.0,0.0,35.0,0.349559457
+2024-11-01,MT,North,Refrigerator,Side by Side,194.0,0.0,0.0,194.0,1.813246642
+2024-11-01,MT,South,CAC,Others,5.0,0.0,0.0,5.0,0.109636363
+2024-11-01,MT,South,RAC,Inverter,4984.0,0.0,11.0,4973.0,31.346776252
+2024-11-01,MT,South,Washing Machine,Dryer Machine,28.0,0.0,0.0,28.0,0.131806
+2024-11-01,MT,South,Washing Machine,Front load,273.0,0.0,3.0,270.0,1.297209094
+2024-11-01,MT,South,Washing Machine,Dryer Machine,23.0,0.0,0.0,23.0,0.150786821
+2024-11-01,MT,South,Washing Machine,Top load,1312.0,0.0,0.0,1312.0,4.233563391
+2024-11-01,MT,South,Television,Small size,316.0,0.0,0.0,316.0,1.31249651
+2024-11-01,MT,South,Television,Large size,53.0,0.0,0.0,53.0,0.310087274
+2024-11-01,MT,South,Refrigerator,Multi doors,102.0,0.0,0.0,102.0,1.03976946
+2024-11-01,MT,South,Refrigerator,Side by Side,482.0,0.0,2.0,480.0,4.401594719
+2024-11-01,MT,Middle,RAC,Inverter,227.0,0.0,2.0,225.0,1.552267609
+2024-11-01,MT,Middle,Washing Machine,Dryer Machine,2.0,0.0,0.0,2.0,0.00944
+2024-11-01,MT,Middle,Washing Machine,Front load,21.0,0.0,0.0,21.0,0.109698004
+2024-11-01,MT,Middle,Washing Machine,Dryer Machine,6.0,0.0,0.0,6.0,0.039229092
+2024-11-01,MT,Middle,Washing Machine,Top load,95.0,0.0,0.0,95.0,0.302526735
+2024-11-01,MT,Middle,Television,Small size,53.0,0.0,0.0,53.0,0.21850381
+2024-11-01,MT,Middle,Television,Large size,2.0,0.0,0.0,2.0,0.013803636
+2024-11-01,MT,Middle,Refrigerator,Multi doors,6.0,0.0,0.0,6.0,0.066559636
+2024-11-01,MT,Middle,Refrigerator,Side by Side,50.0,0.0,0.0,50.0,0.499930185
+2024-11-01,Retail,North,CAC,Others,4.0,0.0,0.0,4.0,0.123454544
+2024-11-01,Retail,North,RAC,Non Inverter,2.0,0.0,0.0,0.0,0.008536364
+2024-11-01,Retail,North,RAC,Inverter,12.0,0.0,0.0,6.0,0.09491818
+2024-11-01,Retail,North,Others,Air purifier,29.0,0.0,0.0,0.0,0.043777272
+2024-11-01,Retail,North,Washing Machine,Dryer Machine,6.0,0.0,0.0,1.0,0.027145458
+2024-11-01,Retail,North,Washing Machine,Front load,13.0,0.0,0.0,1.0,0.065381817
+2024-11-01,Retail,North,Washing Machine,Dryer Machine,9.0,1.0,0.0,1.0,0.047699998
+2024-11-01,Retail,North,Washing Machine,Top load,20.0,0.0,0.0,1.0,0.064827639
+2024-11-01,Retail,North,Television,Small size,10.0,0.0,0.0,7.0,0.050763271
+2024-11-01,Retail,North,Television,Large size,6.0,0.0,0.0,0.0,0.037336363
+2024-11-01,Retail,North,Refrigerator,Multi doors,3.0,0.0,0.0,2.0,0.026118182
+2024-11-01,Retail,North,Refrigerator,Side by Side,1.0,0.0,0.0,0.0,0.008268182
+2024-11-01,Retail,South,RAC,Non Inverter,9.0,0.0,0.0,3.0,0.031169638
+2024-11-01,Retail,South,RAC,Inverter,13.0,0.0,0.0,1.0,0.054495453
+2024-11-01,Retail,South,Others,Air purifier,12.0,0.0,0.0,1.0,0.019350001
+2024-11-01,Retail,South,Others,Cooker,1.0,0.0,0.0,1.0,0.000196364
+2024-11-01,Retail,South,Washing Machine,Dryer Machine,2.0,0.0,0.0,2.0,0.003304
+2024-11-01,Retail,South,Washing Machine,Front load,8.0,0.0,0.0,4.0,0.031433635
+2024-11-01,Retail,South,Washing Machine,Dryer Machine,3.0,0.0,0.0,1.0,0.017090908
+2024-11-01,Retail,South,Washing Machine,Top load,6.0,0.0,0.0,1.0,0.016356546
+2024-11-01,Retail,South,Television,Small size,4.0,0.0,0.0,0.0,0.015472729
+2024-11-01,Retail,South,Television,Large size,8.0,0.0,0.0,7.0,0.043609997
+2024-11-01,Retail,South,Refrigerator,Top freezer,6.0,0.0,0.0,6.0,0.021383275
+2024-11-01,Retail,South,Refrigerator,Multi doors,3.0,0.0,0.0,3.0,0.012592365
+2024-11-01,Retail,South,Refrigerator,Side by Side,7.0,0.0,0.0,4.0,0.035528727
+2024-11-01,Retail,Middle,Others,Air purifier,6.0,6.0,0.0,0.0,0.0
+2024-11-01,Retail,Middle,Washing Machine,Front load,1.0,0.0,0.0,1.0,0.00368
+2024-11-01,Retail,Middle,Washing Machine,Dryer Machine,1.0,0.0,0.0,1.0,0.003652727
+2024-11-01,Retail,Middle,Television,Large size,5.0,0.0,0.0,5.0,0.02621818
+2025-01-01,GT,North,CAC,Others,324.0,0.0,0.0,324.0,6.458376714
+2025-01-01,GT,North,RAC,Non inverter,12573.0,0.0,0.0,12573.0,62.069542663
+2025-01-01,GT,North,RAC,Inverter,26891.0,118.0,18.0,26755.0,180.184865248
+2025-01-01,GT,North,Others,Air purifier,2.0,2.0,0.0,0.0,0.0
+2025-01-01,GT,North,Others,Water purifier,182.0,0.0,0.0,182.0,0.663395462
+2025-01-01,GT,North,Washing Machine,Front load,2487.0,0.0,0.0,2487.0,14.841463475
+2025-01-01,GT,North,Washing Machine,Top load,504.0,0.0,0.0,504.0,1.557818136
+2025-01-01,GT,North,Television,Small size,541.0,346.0,0.0,195.0,0.716136435
+2025-01-01,GT,North,Refrigerator,Bottom freezer,1.0,0.0,0.0,1.0,0.002586364
+2025-01-01,GT,North,Refrigerator,Top freezer,1.0,0.0,0.0,1.0,0.001809091
+2025-01-01,GT,North,Refrigerator,Multi doors,810.0,0.0,0.0,810.0,7.752000022
+2025-01-01,GT,North,Refrigerator,Side by Side,574.0,0.0,0.0,574.0,4.819181784
+2025-01-01,GT,South,CAC,Others,53.0,0.0,0.0,53.0,0.872463636
+2025-01-01,GT,South,RAC,Non inverter,255.0,0.0,0.0,255.0,1.06636359
+2025-01-01,GT,South,RAC,Inverter,12645.0,0.0,0.0,12645.0,80.012046675
+2025-01-01,GT,South,Others,Air purifier,3.0,3.0,0.0,0.0,0.0
+2025-01-01,GT,South,Washing Machine,Front load,45.0,0.0,0.0,45.0,0.269154541
+2025-01-01,GT,South,Washing Machine,Top load,68.0,20.0,0.0,48.0,0.195272712
+2025-01-01,GT,South,Television,Small size,141.0,41.0,0.0,100.0,0.42818182
+2025-01-01,GT,South,Television,Large size,3.0,3.0,0.0,0.0,0.0
+2025-01-01,GT,South,Refrigerator,Multi doors,148.0,0.0,0.0,148.0,1.48472728
+2025-01-01,GT,South,Refrigerator,Side by Side,282.0,0.0,0.0,282.0,2.33972724
+2025-01-01,GT,Middle,RAC,Non inverter,1479.0,0.0,0.0,1479.0,7.082726929
+2025-01-01,GT,Middle,RAC,Inverter,8717.0,57.0,0.0,8660.0,54.447591647
+2025-01-01,GT,Middle,Washing Machine,Front load,112.0,1.0,0.0,111.0,0.726290901
+2025-01-01,GT,Middle,Washing Machine,Top load,121.0,13.0,0.0,108.0,0.439363602
+2025-01-01,GT,Middle,Television,Small size,104.0,37.0,0.0,67.0,0.287454548
+2025-01-01,GT,Middle,Refrigerator,Multi doors,102.0,0.0,0.0,102.0,1.049727279
+2025-01-01,GT,Middle,Refrigerator,Side by Side,85.0,0.0,0.0,85.0,0.71772727
+2025-01-01,MT,North,CAC,Others,8.0,0.0,0.0,8.0,0.183308181
+2025-01-01,MT,North,RAC,Non inverter,15.0,0.0,0.0,15.0,0.103702911
+2025-01-01,MT,North,RAC,Inverter,213.0,0.0,0.0,213.0,1.833661364
+2025-01-01,MT,North,Washing Machine,Dryer Machine,55.0,0.0,0.0,55.0,0.262373
+2025-01-01,MT,North,Washing Machine,Front load,445.0,0.0,0.0,445.0,2.302459353
+2025-01-01,MT,North,Washing Machine,Top load,354.0,0.0,0.0,354.0,1.186052503
+2025-01-01,MT,North,Television,Small size,375.0,0.0,0.0,375.0,1.417045498
+2025-01-01,MT,North,Television,Large size,5.0,0.0,0.0,5.0,0.03450909
+2025-01-01,MT,North,Refrigerator,Multi doors,27.0,0.0,0.0,27.0,0.322604357
+2025-01-01,MT,North,Refrigerator,Side by Side,112.0,0.0,0.0,112.0,1.16879418
+2025-01-01,MT,South,CAC,Others,6.0,0.0,0.0,6.0,0.142418182
+2025-01-01,MT,South,RAC,Inverter,9195.0,0.0,5.0,9190.0,51.085617834
+2025-01-01,MT,South,Washing Machine,Dryer Machine,19.0,0.0,0.0,19.0,0.08968
+2025-01-01,MT,South,Washing Machine,Front load,82.0,0.0,0.0,82.0,0.447292113
+2025-01-01,MT,South,Washing Machine,Top load,395.0,0.0,0.0,395.0,1.271792849
+2025-01-01,MT,South,Television,Small size,531.0,0.0,1.0,530.0,1.945167814
+2025-01-01,MT,South,Television,Large size,44.0,0.0,0.0,44.0,0.303679992
+2025-01-01,MT,South,Refrigerator,Multi doors,33.0,0.0,0.0,33.0,0.391262719
+2025-01-01,MT,South,Refrigerator,Side by Side,177.0,0.0,0.0,177.0,1.790136211
+2025-01-01,MT,Middle,RAC,Inverter,364.0,0.0,0.0,364.0,2.140952419
+2025-01-01,MT,Middle,Washing Machine,Dryer Machine,7.0,0.0,0.0,7.0,0.03304
+2025-01-01,MT,Middle,Washing Machine,Front load,12.0,0.0,0.0,12.0,0.0631
+2025-01-01,MT,Middle,Washing Machine,Top load,21.0,0.0,0.0,21.0,0.076310544
+2025-01-01,MT,Middle,Television,Small size,98.0,0.0,0.0,98.0,0.380426377
+2025-01-01,MT,Middle,Television,Large size,13.0,0.0,0.0,13.0,0.089723634
+2025-01-01,MT,Middle,Refrigerator,Multi doors,5.0,0.0,0.0,5.0,0.059963635
+2025-01-01,MT,Middle,Refrigerator,Side by Side,27.0,0.0,0.0,27.0,0.27028655
+2025-01-01,Retail,North,RAC,Non inverter,8.0,0.0,0.0,0.0,0.031886361
+2025-01-01,Retail,North,RAC,Inverter,62.0,5.0,0.0,1.0,0.311472723
+2025-01-01,Retail,North,Others,Air purifier,32.0,10.0,1.0,-1.0,0.041668175
+2025-01-01,Retail,North,Washing Machine,Dryer Machine,16.0,0.0,0.0,1.0,0.074368185
+2025-01-01,Retail,North,Washing Machine,Front load,39.0,0.0,0.0,0.0,0.199404549
+2025-01-01,Retail,North,Washing Machine,Top load,31.0,1.0,0.0,1.0,0.08959546
+2025-01-01,Retail,North,Television,Small size,11.0,1.0,0.0,0.0,0.043409088
+2025-01-01,Retail,North,Television,Large size,55.0,0.0,0.0,0.0,0.318699997
+2025-01-01,Retail,North,Refrigerator,Multi doors,9.0,0.0,0.0,2.0,0.081354545
+2025-01-01,Retail,North,Refrigerator,Side by Side,16.0,0.0,0.0,0.0,0.119995454
+2025-01-01,Retail,South,RAC,Non inverter,4.0,0.0,0.0,0.0,0.015436362
+2025-01-01,Retail,South,RAC,Inverter,17.0,2.0,0.0,1.0,0.072668182
+2025-01-01,Retail,South,Others,Air purifier,17.0,17.0,0.0,0.0,0.0
+2025-01-01,Retail,South,Washing Machine,Dryer Machine,2.0,0.0,0.0,0.0,0.009154545
+2025-01-01,Retail,South,Washing Machine,Front load,6.0,0.0,0.0,0.0,0.031972728
+2025-01-01,Retail,South,Washing Machine,Dryer machine,12.0,0.0,0.0,0.0,0.071313635
+2025-01-01,Retail,South,Washing Machine,Top load,9.0,0.0,0.0,0.0,0.02563182
+2025-01-01,Retail,South,Television,Small size,14.0,13.0,0.0,0.0,0.004722728
+2025-01-01,Retail,South,Television,Large size,5.0,0.0,0.0,0.0,0.031609089
+2025-01-01,Retail,South,Refrigerator,Multi doors,4.0,0.0,0.0,0.0,0.042172727
+2025-01-01,Retail,South,Refrigerator,Side by Side,3.0,0.0,0.0,0.0,0.025795455
+2025-01-01,Retail,Middle,RAC,Inverter,7.0,2.0,0.0,0.0,0.02140909
+2025-01-01,Retail,Middle,Washing Machine,Dryer Machine,1.0,0.0,0.0,1.0,0.0039
+2025-01-01,Retail,Middle,Washing Machine,Top load,1.0,0.0,0.0,0.0,0.004909091
+2025-01-01,Retail,Middle,Television,Small size,1.0,0.0,0.0,0.0,0.004154545
+2025-01-01,Retail,Middle,Television,Large size,1.0,0.0,0.0,1.0,0.007633636
+2025-01-01,Retail,Middle,Refrigerator,Side by Side,1.0,0.0,0.0,0.0,0.007054545
+2024-12-01,GT,North,CAC,Others,740.0,0.0,0.0,740.0,14.262054536
+2024-12-01,GT,North,RAC,Non inverter,130.0,0.0,10.0,110.0,0.45363641
+2024-12-01,GT,North,RAC,Inverter,256.0,0.0,13.0,230.0,2.273454611
+2024-12-01,GT,North,Others,Air purifier,1.0,1.0,0.0,0.0,0.0
+2024-12-01,GT,North,Washing Machine,Dryer Machine,120.0,0.0,0.0,120.0,0.54
+2024-12-01,GT,North,Washing Machine,Front load,596.0,1.0,0.0,595.0,3.129318115
+2024-12-01,GT,North,Washing Machine,Top load,660.0,430.0,0.0,230.0,0.758818123
+2024-12-01,GT,North,Television,Small size,2424.0,961.0,0.0,1463.0,6.977454225
+2024-12-01,GT,North,Television,Large size,960.0,1.0,0.0,959.0,6.407863462
+2024-12-01,GT,North,Refrigerator,Multi doors,55.0,0.0,0.0,55.0,0.495
+2024-12-01,GT,South,CAC,Others,208.0,0.0,0.0,208.0,3.647200002
+2024-12-01,GT,South,RAC,Non inverter,836.0,0.0,0.0,836.0,3.640772845
+2024-12-01,GT,South,RAC,Inverter,6676.0,144.0,0.0,6532.0,40.780637116
+2024-12-01,GT,South,Washing Machine,Dryer Machine,70.0,0.0,0.0,70.0,0.315
+2024-12-01,GT,South,Washing Machine,Front load,321.0,0.0,0.0,321.0,1.565727249
+2024-12-01,GT,South,Washing Machine,Dryer machine,20.0,0.0,0.0,20.0,0.11727272
+2024-12-01,GT,South,Washing Machine,Top load,716.0,40.0,0.0,676.0,2.344681624
+2024-12-01,GT,South,Television,Small size,1199.0,15.0,0.0,1184.0,5.111590948
+2024-12-01,GT,South,Television,Large size,86.0,1.0,0.0,85.0,0.56454544
+2024-12-01,GT,South,Refrigerator,Multi doors,11.0,0.0,0.0,11.0,0.099
+2024-12-01,GT,South,Refrigerator,Side by Side,31.0,0.0,0.0,31.0,0.260636362
+2024-12-01,GT,Middle,CAC,Others,126.0,6.0,0.0,120.0,2.506518181
+2024-12-01,GT,Middle,RAC,Non inverter,119.0,0.0,0.0,119.0,0.487372474
+2024-12-01,GT,Middle,RAC,Inverter,1920.0,0.0,0.0,1920.0,10.897727469
+2024-12-01,GT,Middle,Others,Direct,1.0,0.0,0.0,1.0,0.000676364
+2024-12-01,GT,Middle,Washing Machine,Front load,93.0,0.0,0.0,93.0,0.490934179
+2024-12-01,GT,Middle,Washing Machine,Top load,61.0,21.0,0.0,40.0,0.16272726
+2024-12-01,GT,Middle,Television,Small size,966.0,86.0,0.0,880.0,3.985909
+2024-12-01,GT,Middle,Refrigerator,Bottom freezer,1.0,0.0,0.0,1.0,0.0046469
+2024-12-01,GT,Middle,Refrigerator,Top freezer,9.0,0.0,0.0,9.0,0.030761273
+2024-12-01,GT,Middle,Refrigerator,Multi doors,10.0,0.0,0.0,10.0,0.09
+2024-12-01,GT,Middle,Refrigerator,Side by Side,38.0,1.0,0.0,37.0,0.304141091
+2024-12-01,MT,North,CAC,Others,1.0,0.0,0.0,1.0,0.0126
+2024-12-01,MT,North,RAC,Inverter,1190.0,0.0,0.0,1190.0,8.198655274
+2024-12-01,MT,North,Washing Machine,Dryer Machine,151.0,0.0,1.0,149.0,0.701156
+2024-12-01,MT,North,Washing Machine,Front load,718.0,0.0,1.0,716.0,3.713806745
+2024-12-01,MT,North,Washing Machine,Top load,527.0,0.0,0.0,527.0,1.793372491
+2024-12-01,MT,North,Television,Small size,155.0,0.0,0.0,155.0,0.646325474
+2024-12-01,MT,North,Television,Large size,120.0,0.0,1.0,118.0,0.809687251
+2024-12-01,MT,North,Refrigerator,Mini,50.0,0.0,0.0,50.0,0.1131
+2024-12-01,MT,North,Refrigerator,Multi doors,31.0,0.0,0.0,31.0,0.372374173
+2024-12-01,MT,North,Refrigerator,Side by Side,315.0,0.0,0.0,315.0,3.244148846
+2024-12-01,MT,South,CAC,Others,9.0,0.0,0.0,9.0,0.189263635
+2024-12-01,MT,South,RAC,Non inverter,18.0,0.0,0.0,18.0,0.210472362
+2024-12-01,MT,South,RAC,Inverter,4242.0,0.0,8.0,4226.0,25.498881534
+2024-12-01,MT,South,Washing Machine,Dryer Machine,27.0,0.0,0.0,27.0,0.125316
+2024-12-01,MT,South,Washing Machine,Front load,284.0,0.0,0.0,284.0,1.543960879
+2024-12-01,MT,South,Washing Machine,Dryer machine,15.0,0.0,0.0,15.0,0.099298635
+2024-12-01,MT,South,Washing Machine,Top load,250.0,0.0,0.0,250.0,0.908345805
+2024-12-01,MT,South,Television,Small size,249.0,0.0,3.0,243.0,1.049160149
+2024-12-01,MT,South,Television,Large size,107.0,0.0,7.0,93.0,0.549539085
+2024-12-01,MT,South,Refrigerator,Mini,100.0,0.0,0.0,100.0,0.2262
+2024-12-01,MT,South,Refrigerator,Multi doors,33.0,0.0,0.0,33.0,0.391262719
+2024-12-01,MT,South,Refrigerator,Side by Side,522.0,0.0,0.0,522.0,5.336716069
+2024-12-01,MT,Middle,CAC,Others,1.0,0.0,0.0,1.0,0.025609091
+2024-12-01,MT,Middle,RAC,Inverter,260.0,0.0,1.0,258.0,1.627683796
+2024-12-01,MT,Middle,Washing Machine,Dryer Machine,12.0,0.0,0.0,12.0,0.05664
+2024-12-01,MT,Middle,Washing Machine,Front load,44.0,0.0,0.0,44.0,0.238367281
+2024-12-01,MT,Middle,Washing Machine,Top load,59.0,0.0,1.0,57.0,0.21241182
+2024-12-01,MT,Middle,Television,Small size,52.0,0.0,0.0,52.0,0.217515647
+2024-12-01,MT,Middle,Television,Large size,11.0,0.0,0.0,11.0,0.07034909
+2024-12-01,MT,Middle,Refrigerator,Multi doors,7.0,0.0,0.0,7.0,0.083949089
+2024-12-01,MT,Middle,Refrigerator,Side by Side,45.0,0.0,0.0,45.0,0.454259445
+2024-12-01,Retail,North,CAC,Others,1.0,0.0,0.0,1.0,0.002727273
+2024-12-01,Retail,North,RAC,Non inverter,2.0,0.0,0.0,2.0,0.00599091
+2024-12-01,Retail,North,RAC,Inverter,15.0,4.0,0.0,11.0,0.071690909
+2024-12-01,Retail,North,Others,Air purifier,80.0,56.0,0.0,24.0,0.045122733
+2024-12-01,Retail,North,Washing Machine,Dryer Machine,5.0,0.0,0.0,5.0,0.019695455
+2024-12-01,Retail,North,Washing Machine,Front load,25.0,0.0,1.0,23.0,0.113394198
+2024-12-01,Retail,North,Washing Machine,Dryer machine,29.0,0.0,0.0,29.0,0.168081807
+2024-12-01,Retail,North,Washing Machine,Top load,70.0,8.0,0.0,62.0,0.179584592
+2024-12-01,Retail,North,Television,Small size,10.0,3.0,0.0,7.0,0.020595454
+2024-12-01,Retail,North,Television,Large size,20.0,1.0,0.0,19.0,0.123475761
+2024-12-01,Retail,North,Refrigerator,Multi doors,7.0,0.0,0.0,7.0,0.057922729
+2024-12-01,Retail,North,Refrigerator,Side by Side,1.0,0.0,0.0,1.0,0.008172728
+2024-12-01,Retail,South,RAC,Non inverter,3.0,0.0,0.0,3.0,0.012258281
+2024-12-01,Retail,South,RAC,Inverter,17.0,0.0,0.0,17.0,0.084331816
+2024-12-01,Retail,South,Others,Air purifier,15.0,6.0,0.0,9.0,0.01774091
+2024-12-01,Retail,South,Washing Machine,Front load,10.0,0.0,0.0,10.0,0.052182629
+2024-12-01,Retail,South,Washing Machine,Dryer machine,4.0,0.0,0.0,4.0,0.024159089
+2024-12-01,Retail,South,Washing Machine,Top load,23.0,0.0,0.0,23.0,0.064522733
+2024-12-01,Retail,South,Television,Small size,3.0,1.0,0.0,2.0,0.009527273
+2024-12-01,Retail,South,Television,Large size,1.0,0.0,0.0,1.0,0.007718182
+2024-12-01,Retail,Middle,RAC,Inverter,15.0,14.0,0.0,1.0,0.007909091
+2024-12-01,Retail,Middle,Others,Air purifier,1.0,0.0,0.0,1.0,0.001513636
+2024-12-01,Retail,Middle,Washing Machine,Front load,2.0,1.0,0.0,1.0,0.003981818
+2024-12-01,Retail,Middle,Washing Machine,Top load,1.0,0.0,0.0,1.0,0.00228
+2024-12-01,Retail,Middle,Television,Large size,1.0,0.0,0.0,1.0,0.005790909
+2025-01-01,GT,North,CAC,Others,324.0,0.0,0.0,324.0,6.458376714
+2025-01-01,GT,North,RAC,Non inverter,12573.0,0.0,0.0,12573.0,62.069542663
+2025-01-01,GT,North,RAC,Inverter,26891.0,118.0,18.0,26755.0,180.184865248
+2025-01-01,GT,North,Others,Air purifier,2.0,2.0,0.0,0.0,0.0
+2025-01-01,GT,North,Others,Water purifier,182.0,0.0,0.0,182.0,0.663395462
+2025-01-01,GT,North,Washing Machine,Front load,2487.0,0.0,0.0,2487.0,14.841463475
+2025-01-01,GT,North,Washing Machine,Top load,504.0,0.0,0.0,504.0,1.557818136
+2025-01-01,GT,North,Television,Small size,541.0,346.0,0.0,195.0,0.716136435
+2025-01-01,GT,North,Refrigerator,Bottom freezer,1.0,0.0,0.0,1.0,0.002586364
+2025-01-01,GT,North,Refrigerator,Top freezer,1.0,0.0,0.0,1.0,0.001809091
+2025-01-01,GT,North,Refrigerator,Multi doors,810.0,0.0,0.0,810.0,7.752000022
+2025-01-01,GT,North,Refrigerator,Side by Side,574.0,0.0,0.0,574.0,4.819181784
+2025-01-01,GT,South,CAC,Others,53.0,0.0,0.0,53.0,0.872463636
+2025-01-01,GT,South,RAC,Non inverter,255.0,0.0,0.0,255.0,1.06636359
+2025-01-01,GT,South,RAC,Inverter,12645.0,0.0,0.0,12645.0,80.012046675
+2025-01-01,GT,South,Others,Air purifier,3.0,3.0,0.0,0.0,0.0
+2025-01-01,GT,South,Washing Machine,Front load,45.0,0.0,0.0,45.0,0.269154541
+2025-01-01,GT,South,Washing Machine,Top load,68.0,20.0,0.0,48.0,0.195272712
+2025-01-01,GT,South,Television,Small size,141.0,41.0,0.0,100.0,0.42818182
+2025-01-01,GT,South,Television,Large size,3.0,3.0,0.0,0.0,0.0
+2025-01-01,GT,South,Refrigerator,Multi doors,148.0,0.0,0.0,148.0,1.48472728
+2025-01-01,GT,South,Refrigerator,Side by Side,282.0,0.0,0.0,282.0,2.33972724
+2025-01-01,GT,Middle,RAC,Non inverter,1479.0,0.0,0.0,1479.0,7.082726929
+2025-01-01,GT,Middle,RAC,Inverter,8717.0,57.0,0.0,8660.0,54.447591647
+2025-01-01,GT,Middle,Washing Machine,Front load,112.0,1.0,0.0,111.0,0.726290901
+2025-01-01,GT,Middle,Washing Machine,Top load,121.0,13.0,0.0,108.0,0.439363602
+2025-01-01,GT,Middle,Television,Small size,104.0,37.0,0.0,67.0,0.287454548
+2025-01-01,GT,Middle,Refrigerator,Multi doors,102.0,0.0,0.0,102.0,1.049727279
+2025-01-01,GT,Middle,Refrigerator,Side by Side,85.0,0.0,0.0,85.0,0.71772727
+2025-01-01,MT,North,CAC,Others,8.0,0.0,0.0,8.0,0.183308181
+2025-01-01,MT,North,RAC,Non inverter,15.0,0.0,0.0,15.0,0.103702911
+2025-01-01,MT,North,RAC,Inverter,213.0,0.0,0.0,213.0,1.833661364
+2025-01-01,MT,North,Washing Machine,Dryer Machine,55.0,0.0,0.0,55.0,0.262373
+2025-01-01,MT,North,Washing Machine,Front load,445.0,0.0,0.0,445.0,2.302459353
+2025-01-01,MT,North,Washing Machine,Top load,354.0,0.0,0.0,354.0,1.186052503
+2025-01-01,MT,North,Television,Small size,375.0,0.0,0.0,375.0,1.417045498
+2025-01-01,MT,North,Television,Large size,5.0,0.0,0.0,5.0,0.03450909
+2025-01-01,MT,North,Refrigerator,Multi doors,27.0,0.0,0.0,27.0,0.322604357
+2025-01-01,MT,North,Refrigerator,Side by Side,112.0,0.0,0.0,112.0,1.16879418
+2025-01-01,MT,South,CAC,Others,6.0,0.0,0.0,6.0,0.142418182
+2025-01-01,MT,South,RAC,Inverter,9195.0,0.0,5.0,9190.0,51.085617834
+2025-01-01,MT,South,Washing Machine,Dryer Machine,19.0,0.0,0.0,19.0,0.08968
+2025-01-01,MT,South,Washing Machine,Front load,82.0,0.0,0.0,82.0,0.447292113
+2025-01-01,MT,South,Washing Machine,Top load,395.0,0.0,0.0,395.0,1.271792849
+2025-01-01,MT,South,Television,Small size,531.0,0.0,1.0,530.0,1.945167814
+2025-01-01,MT,South,Television,Large size,44.0,0.0,0.0,44.0,0.303679992
+2025-01-01,MT,South,Refrigerator,Multi doors,33.0,0.0,0.0,33.0,0.391262719
+2025-01-01,MT,South,Refrigerator,Side by Side,177.0,0.0,0.0,177.0,1.790136211
+2025-01-01,MT,Middle,RAC,Inverter,364.0,0.0,0.0,364.0,2.140952419
+2025-01-01,MT,Middle,Washing Machine,Dryer Machine,7.0,0.0,0.0,7.0,0.03304
+2025-01-01,MT,Middle,Washing Machine,Front load,12.0,0.0,0.0,12.0,0.0631
+2025-01-01,MT,Middle,Washing Machine,Top load,21.0,0.0,0.0,21.0,0.076310544
+2025-01-01,MT,Middle,Television,Small size,98.0,0.0,0.0,98.0,0.380426377
+2025-01-01,MT,Middle,Television,Large size,13.0,0.0,0.0,13.0,0.089723634
+2025-01-01,MT,Middle,Refrigerator,Multi doors,5.0,0.0,0.0,5.0,0.059963635
+2025-01-01,MT,Middle,Refrigerator,Side by Side,27.0,0.0,0.0,27.0,0.27028655
+2025-01-01,Retail,North,RAC,Non inverter,8.0,0.0,0.0,0.0,0.031886361
+2025-01-01,Retail,North,RAC,Inverter,62.0,5.0,0.0,1.0,0.311472723
+2025-01-01,Retail,North,Others,Air purifier,32.0,10.0,1.0,-1.0,0.041668175
+2025-01-01,Retail,North,Washing Machine,Dryer Machine,16.0,0.0,0.0,1.0,0.074368185
+2025-01-01,Retail,North,Washing Machine,Front load,39.0,0.0,0.0,0.0,0.199404549
+2025-01-01,Retail,North,Washing Machine,Top load,31.0,1.0,0.0,1.0,0.08959546
+2025-01-01,Retail,North,Television,Small size,11.0,1.0,0.0,0.0,0.043409088
+2025-01-01,Retail,North,Television,Large size,55.0,0.0,0.0,0.0,0.318699997
+2025-01-01,Retail,North,Refrigerator,Multi doors,9.0,0.0,0.0,2.0,0.081354545
+2025-01-01,Retail,North,Refrigerator,Side by Side,16.0,0.0,0.0,0.0,0.119995454
+2025-01-01,Retail,South,RAC,Non inverter,4.0,0.0,0.0,0.0,0.015436362
+2025-01-01,Retail,South,RAC,Inverter,17.0,2.0,0.0,1.0,0.072668182
+2025-01-01,Retail,South,Others,Air purifier,17.0,17.0,0.0,0.0,0.0
+2025-01-01,Retail,South,Washing Machine,Dryer Machine,2.0,0.0,0.0,0.0,0.009154545
+2025-01-01,Retail,South,Washing Machine,Front load,6.0,0.0,0.0,0.0,0.031972728
+2025-01-01,Retail,South,Washing Machine,Dryer machine,12.0,0.0,0.0,0.0,0.071313635
+2025-01-01,Retail,South,Washing Machine,Top load,9.0,0.0,0.0,0.0,0.02563182
+2025-01-01,Retail,South,Television,Small size,14.0,13.0,0.0,0.0,0.004722728
+2025-01-01,Retail,South,Television,Large size,5.0,0.0,0.0,0.0,0.031609089
+2025-01-01,Retail,South,Refrigerator,Multi doors,4.0,0.0,0.0,0.0,0.042172727
+2025-01-01,Retail,South,Refrigerator,Side by Side,3.0,0.0,0.0,0.0,0.025795455
+2025-01-01,Retail,Middle,RAC,Inverter,7.0,2.0,0.0,0.0,0.02140909
+2025-01-01,Retail,Middle,Washing Machine,Dryer Machine,1.0,0.0,0.0,1.0,0.0039
+2025-01-01,Retail,Middle,Washing Machine,Top load,1.0,0.0,0.0,0.0,0.004909091
+2025-01-01,Retail,Middle,Television,Small size,1.0,0.0,0.0,0.0,0.004154545
+2025-01-01,Retail,Middle,Television,Large size,1.0,0.0,0.0,1.0,0.007633636
+2025-01-01,Retail,Middle,Refrigerator,Side by Side,1.0,0.0,0.0,0.0,0.007054545
+2025-02-01,GT,North,CAC,Others,10.0,0.0,0.0,10.0,0.199532636
+2025-02-01,GT,North,RAC,Non Inverter,15867.0,0.0,0.0,15867.0,77.669266506
+2025-02-01,GT,North,RAC,Inverter,20037.0,143.0,0.0,19894.0,112.358152258
+2025-02-01,GT,North,Others,Water purifier,569.0,0.0,0.0,569.0,2.003861768
+2025-02-01,GT,North,Others,Electric fan,880.0,0.0,0.0,880.0,0.64569046
+2025-02-01,GT,North,Others,Air purifier,3.0,3.0,0.0,0.0,0.0
+2025-02-01,GT,North,Washing Machine,Dryer Machine,1020.0,0.0,0.0,1020.0,4.59
+2025-02-01,GT,North,Washing Machine,Front load,1335.0,0.0,0.0,1335.0,7.140227245
+2025-02-01,GT,North,Washing Machine,Top load,1588.0,5.0,0.0,1583.0,5.515090538
+2025-02-01,GT,North,Television,Small size,500.0,0.0,0.0,500.0,2.4272727
+2025-02-01,GT,North,Refrigerator,Multi doors,399.0,1.0,0.0,398.0,3.730909098
+2025-02-01,GT,North,Refrigerator,Side by Side,349.0,0.0,0.0,349.0,2.866909034
+2025-02-01,GT,South,CAC,Others,28.0,0.0,0.0,28.0,0.609790902
+2025-02-01,GT,South,RAC,Non Inverter,886.0,0.0,0.0,886.0,4.243999794
+2025-02-01,GT,South,RAC,Inverter,7250.0,0.0,0.0,7250.0,39.568634015
+2025-02-01,GT,South,Others,Water purifier,308.0,0.0,0.0,308.0,1.12175252
+2025-02-01,GT,South,Others,Electric fan,60.0,12.0,0.0,48.0,0.034636356
+2025-02-01,GT,South,Washing Machine,Dryer Machine,40.0,0.0,0.0,40.0,0.18
+2025-02-01,GT,South,Washing Machine,Front load,220.0,0.0,0.0,220.0,1.13927269
+2025-02-01,GT,South,Washing Machine,Top load,460.0,0.0,0.0,460.0,1.63340898
+2025-02-01,GT,South,Television,Small size,1950.0,0.0,0.0,1950.0,8.0775003
+2025-02-01,GT,South,Television,Large size,142.0,2.0,0.0,140.0,0.93545452
+2025-02-01,GT,South,Refrigerator,Multi doors,15.0,0.0,0.0,15.0,0.135
+2025-02-01,GT,South,Refrigerator,Side by Side,6.0,1.0,0.0,5.0,0.04090909
+2025-02-01,GT,Middle,RAC,Non Inverter,1755.0,0.0,0.0,1755.0,7.732908739
+2025-02-01,GT,Middle,RAC,Inverter,7143.0,2.0,0.0,7141.0,41.416863262
+2025-02-01,GT,Middle,Others,Water purifier,149.0,0.0,0.0,149.0,0.538770701
+2025-02-01,GT,Middle,Washing Machine,Front load,38.0,0.0,0.0,38.0,0.178454542
+2025-02-01,GT,Middle,Washing Machine,Top load,120.0,0.0,0.0,120.0,0.442045425
+2025-02-01,GT,Middle,Television,Small size,1525.0,0.0,0.0,1525.0,6.503863965
+2025-02-01,GT,Middle,Television,Large size,5.0,0.0,0.0,5.0,0.03340909
+2025-02-01,GT,Middle,Refrigerator,Multi doors,36.0,0.0,0.0,36.0,0.375545457
+2025-02-01,GT,Middle,Refrigerator,Side by Side,9.0,0.0,0.0,9.0,0.07490909
+2025-02-01,MT,North,RAC,Non Inverter,59.0,0.0,0.0,59.0,0.671799812
+2025-02-01,MT,North,RAC,Inverter,959.0,0.0,0.0,959.0,6.781393101
+2025-02-01,MT,North,Washing Machine,Dryer Machine,681.0,0.0,0.0,681.0,3.197328
+2025-02-01,MT,North,Washing Machine,Front load,628.0,0.0,1.0,626.0,3.313617057
+2025-02-01,MT,North,Washing Machine,Top load,458.0,0.0,1.0,456.0,1.389833486
+2025-02-01,MT,North,Television,Small size,21.0,0.0,0.0,21.0,0.097883638
+2025-02-01,MT,North,Television,Large size,22.0,0.0,0.0,22.0,0.151839996
+2025-02-01,MT,North,Refrigerator,Mini,15.0,0.0,0.0,15.0,0.035235
+2025-02-01,MT,North,Refrigerator,Multi doors,17.0,0.0,0.0,17.0,0.185949366
+2025-02-01,MT,North,Refrigerator,Side by Side,45.0,0.0,0.0,45.0,0.467105
+2025-02-01,MT,South,CAC,Others,6.0,0.0,0.0,6.0,0.154327274
+2025-02-01,MT,South,RAC,Non Inverter,31.0,0.0,0.0,31.0,0.290995363
+2025-02-01,MT,South,RAC,Inverter,15116.0,0.0,16.0,15084.0,100.894716402
+2025-02-01,MT,South,Washing Machine,Dryer Machine,35.0,0.0,0.0,35.0,0.15812
+2025-02-01,MT,South,Washing Machine,Front load,321.0,0.0,0.0,321.0,1.859478005
+2025-02-01,MT,South,Washing Machine,Dryer machine,2.0,0.0,2.0,-2.0,-0.013076364
+2025-02-01,MT,South,Washing Machine,Top load,864.0,0.0,0.0,864.0,2.667784646
+2025-02-01,MT,South,Television,Small size,2059.0,0.0,2.0,2055.0,7.848266451
+2025-02-01,MT,South,Television,Large size,104.0,0.0,1.0,102.0,0.705432709
+2025-02-01,MT,South,Refrigerator,Bottom freezer,1.0,0.0,1.0,-1.0,-0.007265455
+2025-02-01,MT,South,Refrigerator,Multi doors,21.0,0.0,0.0,21.0,0.250947813
+2025-02-01,MT,South,Refrigerator,Side by Side,146.0,0.0,0.0,146.0,1.435339994
+2025-02-01,MT,Middle,RAC,Non Inverter,10.0,0.0,0.0,10.0,0.11692909
+2025-02-01,MT,Middle,RAC,Inverter,826.0,0.0,0.0,826.0,5.02663916
+2025-02-01,MT,Middle,Washing Machine,Dryer Machine,8.0,0.0,0.0,8.0,0.036934
+2025-02-01,MT,Middle,Washing Machine,Front load,7.0,0.0,0.0,7.0,0.038639091
+2025-02-01,MT,Middle,Washing Machine,Top load,83.0,0.0,0.0,83.0,0.263761077
+2025-02-01,MT,Middle,Television,Small size,280.0,0.0,0.0,280.0,1.099889038
+2025-02-01,MT,Middle,Television,Large size,5.0,0.0,0.0,5.0,0.03450909
+2025-02-01,MT,Middle,Refrigerator,Side by Side,14.0,0.0,0.0,14.0,0.14317273
+2025-02-01,Retail,North,RAC,Non Inverter,41.0,0.0,0.0,41.0,0.18631546
+2025-02-01,Retail,North,RAC,Inverter,104.0,2.0,6.0,96.0,0.503968166
+2025-02-01,Retail,North,Others,Electric fan,40.0,40.0,0.0,0.0,0.0
+2025-02-01,Retail,North,Others,Air purifier,10.0,2.0,0.0,8.0,0.017809092
+2025-02-01,Retail,North,Washing Machine,Dryer Machine,129.0,0.0,0.0,129.0,0.658974523
+2025-02-01,Retail,North,Washing Machine,Front load,142.0,1.0,5.0,136.0,0.685740004
+2025-02-01,Retail,North,Washing Machine,Top load,98.0,1.0,1.0,96.0,0.299729099
+2025-02-01,Retail,North,Television,Small size,8.0,0.0,1.0,7.0,0.027171819
+2025-02-01,Retail,North,Television,Large size,24.0,1.0,3.0,19.0,0.118063634
+2025-02-01,Retail,North,Refrigerator,Multi doors,1.0,0.0,0.0,1.0,0.009381818
+2025-02-01,Retail,North,Refrigerator,Side by Side,28.0,0.0,0.0,28.0,0.275316359
+2025-02-01,Retail,South,RAC,Non Inverter,10.0,0.0,0.0,9.0,0.044897273
+2025-02-01,Retail,South,RAC,Inverter,24.0,1.0,0.0,23.0,0.131634546
+2025-02-01,Retail,South,Others,Air purifier,1.0,0.0,0.0,1.0,0.002059091
+2025-02-01,Retail,South,Washing Machine,Front load,15.0,0.0,0.0,15.0,0.079191817
+2025-02-01,Retail,South,Washing Machine,Dryer machine,23.0,0.0,0.0,23.0,0.156448178
+2025-02-01,Retail,South,Washing Machine,Top load,23.0,0.0,0.0,22.0,0.073333637
+2025-02-01,Retail,South,Television,Small size,5.0,4.0,0.0,1.0,0.005609091
+2025-02-01,Retail,South,Television,Large size,2.0,1.0,0.0,1.0,0.006427273
+2025-02-01,Retail,South,Refrigerator,Multi doors,1.0,0.0,0.0,1.0,0.009381818
+2025-02-01,Retail,South,Refrigerator,Side by Side,22.0,0.0,0.0,22.0,0.214724544
+2025-02-01,Retail,Middle,RAC,Non Inverter,2.0,0.0,0.0,2.0,0.009256364
+2025-02-01,Retail,Middle,RAC,Inverter,12.0,1.0,0.0,11.0,0.056589995
+2025-02-01,Retail,Middle,Washing Machine,Front load,1.0,0.0,0.0,1.0,0.004957273
+2025-02-01,Retail,Middle,Washing Machine,Dryer machine,5.0,0.0,0.0,5.0,0.03140909
+2025-02-01,Retail,Middle,Washing Machine,Top load,2.0,0.0,0.0,2.0,0.005981818
+2025-02-01,Retail,Middle,Television,Small size,3.0,3.0,0.0,0.0,0.0
+2025-02-01,Retail,Middle,Television,Large size,3.0,1.0,0.0,2.0,0.012854546
+2025-03-01,GT,North,Others,Electric fan,196.0,20.0,0.0,176.0,0.126999972
+2025-03-01,GT,North,Others,Water purifier,163.0,0.0,0.0,163.0,0.46408037
+2025-03-01,GT,North,Refrigerator,Side by Side,90.0,0.0,0.0,90.0,0.76181818
+2025-03-01,GT,North,Television,Large size,40.0,0.0,0.0,40.0,0.31818182
+2025-03-01,GT,North,Television,Small size,80.0,10.0,0.0,70.0,0.33409089
+2025-03-01,GT,North,Washing Machine,Front load,140.0,0.0,0.0,140.0,0.7381818
+2025-03-01,GT,North,Washing Machine,Top load,465.0,0.0,0.0,465.0,1.524999925
+2025-03-01,GT,North,RAC,Inverter,15761.0,0.0,20.0,15741.0,98.920223934
+2025-03-01,GT,North,RAC,Non inverter,18563.0,0.0,20.0,18543.0,99.289267115
+2025-03-01,GT,North,CAC,Other,717.0,0.0,0.0,717.0,15.010509049
+2025-03-01,GT,South,Others,Electric fan,220.0,44.0,0.0,176.0,0.126999972
+2025-03-01,GT,South,Others,Water purifier,184.0,0.0,0.0,184.0,0.787809475
+2025-03-01,GT,South,Refrigerator,Mini,1.0,0.0,0.0,1.0,0.00145
+2025-03-01,GT,South,Refrigerator,Multi doors,10.0,0.0,0.0,10.0,0.088495455
+2025-03-01,GT,South,Refrigerator,Side by Side,99.0,0.0,0.0,99.0,0.807036346
+2025-03-01,GT,South,Television,Large size,2.0,0.0,0.0,2.0,0.011127273
+2025-03-01,GT,South,Television,Small size,382.0,0.0,0.0,382.0,1.583081855
+2025-03-01,GT,South,Washing Machine,Dryer Machine,6.0,0.0,0.0,6.0,0.02545
+2025-03-01,GT,South,Washing Machine,Front load,111.0,0.0,0.0,111.0,0.55324544
+2025-03-01,GT,South,Washing Machine,Top load,244.0,0.0,0.0,244.0,0.829527218
+2025-03-01,GT,South,RAC,Inverter,16757.0,12.0,0.0,16745.0,95.910633242
+2025-03-01,GT,South,RAC,Non inverter,2561.0,0.0,0.0,2561.0,12.483044752
+2025-03-01,GT,South,CAC,Other,206.0,0.0,0.0,206.0,4.86473634
+2025-03-01,GT,Middle,Others,Electric fan,200.0,40.0,0.0,160.0,0.11545452
+2025-03-01,GT,Middle,Refrigerator,Mini,20.0,0.0,0.0,20.0,0.05454546
+2025-03-01,GT,Middle,Refrigerator,Multi doors,58.0,0.0,0.0,58.0,0.569727275
+2025-03-01,GT,Middle,Refrigerator,Side by Side,42.0,0.0,0.0,42.0,0.357
+2025-03-01,GT,Middle,Television,Small size,1.0,1.0,0.0,0.0,0.0
+2025-03-01,GT,Middle,Washing Machine,Front load,95.0,0.0,0.0,95.0,0.532863625
+2025-03-01,GT,Middle,Washing Machine,Top load,105.0,0.0,0.0,105.0,0.37681815
+2025-03-01,GT,Middle,RAC,Inverter,5289.0,1322.0,0.0,3967.0,22.461090325
+2025-03-01,GT,Middle,RAC,Non inverter,616.0,341.0,0.0,275.0,1.563909006
+2025-03-01,GT,Middle,CAC,Other,66.0,0.0,0.0,66.0,1.338154535
+2025-03-01,MT,North,Refrigerator,Mini,15.0,0.0,0.0,15.0,0.035235
+2025-03-01,MT,North,Refrigerator,Multi doors,33.0,0.0,0.0,33.0,0.354948634
+2025-03-01,MT,North,Refrigerator,Side by Side,246.0,0.0,0.0,246.0,2.660334584
+2025-03-01,MT,North,Television,Large size,13.0,0.0,1.0,12.0,0.078109091
+2025-03-01,MT,North,Television,Small size,58.0,0.0,1.0,57.0,0.194617284
+2025-03-01,MT,North,Washing Machine,Dryer Machine,76.0,0.0,1.0,75.0,0.274468
+2025-03-01,MT,North,Washing Machine,Front load,456.0,0.0,0.0,456.0,2.587840886
+2025-03-01,MT,North,Washing Machine,Top load,373.0,0.0,0.0,373.0,1.167805051
+2025-03-01,MT,North,RAC,Inverter,5184.0,0.0,10.0,5174.0,36.451295727
+2025-03-01,MT,North,RAC,Non inverter,165.0,0.0,0.0,165.0,0.87128194
+2025-03-01,MT,North,CAC,Other,1.0,0.0,0.0,1.0,0.015972727
+2025-03-01,MT,South,Refrigerator,Multi doors,78.0,2.0,0.0,76.0,0.840778721
+2025-03-01,MT,South,Refrigerator,Side by Side,569.0,0.0,3.0,566.0,5.983987489
+2025-03-01,MT,South,Television,Large size,30.0,0.0,0.0,30.0,0.211194546
+2025-03-01,MT,South,Television,Small size,2589.0,0.0,0.0,2589.0,9.675300551
+2025-03-01,MT,South,Washing Machine,Dryer Machine,26.0,1.0,0.0,25.0,0.115817
+2025-03-01,MT,South,Washing Machine,Front load,232.0,0.0,0.0,232.0,1.238782476
+2025-03-01,MT,South,Washing Machine,Top load,756.0,0.0,0.0,756.0,2.499945109
+2025-03-01,MT,South,RAC,Inverter,20261.0,0.0,9.0,20252.0,133.733315877
+2025-03-01,MT,South,RAC,Non inverter,88.0,0.0,0.0,88.0,0.506823115
+2025-03-01,MT,South,CAC,Other,8.0,0.0,0.0,8.0,0.202309092
+2025-03-01,MT,Middle,Refrigerator,Multi doors,3.0,0.0,0.0,3.0,0.035078727
+2025-03-01,MT,Middle,Refrigerator,Side by Side,49.0,0.0,0.0,49.0,0.533952538
+2025-03-01,MT,Middle,Television,Large size,49.0,0.0,1.0,-1.0,-0.007265455
+2025-03-01,MT,Middle,Television,Small size,291.0,0.0,0.0,291.0,1.126525559
+2025-03-01,MT,Middle,Washing Machine,Top load,95.0,0.0,0.0,95.0,0.293691272
+2025-03-01,MT,Middle,RAC,Inverter,2792.0,0.0,0.0,2792.0,18.506628678
+2025-03-01,MT,Middle,RAC,Non inverter,13.0,0.0,0.0,13.0,0.087480541
+2025-03-01,Retail,North,Others,Air purifier,2.0,2.0,0.0,0.0,0.0
+2025-03-01,Retail,North,Others,Electric fan,119.0,96.0,10.0,13.0,0.021525455
+2025-03-01,Retail,North,Others,Water purifier,7.0,6.0,0.0,1.0,0.005537037
+2025-03-01,Retail,North,Refrigerator,Multi doors,4.0,0.0,0.0,4.0,0.039231818
+2025-03-01,Retail,North,Refrigerator,Side by Side,58.0,0.0,2.0,56.0,0.532711811
+2025-03-01,Retail,North,Television,Large size,11.0,1.0,2.0,8.0,0.053009092
+2025-03-01,Retail,North,Television,Small size,16.0,3.0,0.0,13.0,0.054656365
+2025-03-01,Retail,North,Washing Machine,Dryer Machine,102.0,0.0,9.0,93.0,0.447574543
+2025-03-01,Retail,North,Washing Machine,Front load,146.0,0.0,22.0,124.0,0.75987545
+2025-03-01,Retail,North,Washing Machine,Top load,291.0,0.0,11.0,280.0,0.893586337
+2025-03-01,Retail,North,RAC,Inverter,308.0,6.0,14.0,288.0,1.702001808
+2025-03-01,Retail,North,RAC,Non inverter,50.0,0.0,6.0,44.0,0.242959091
+2025-03-01,Retail,South,Others,Electric fan,4.0,0.0,3.0,1.0,0.003137637
+2025-03-01,Retail,South,Others,Water purifier,1.0,0.0,0.0,1.0,0.003847222
+2025-03-01,Retail,South,Refrigerator,Multi doors,1.0,0.0,0.0,1.0,0.011809091
+2025-03-01,Retail,South,Refrigerator,Side by Side,18.0,0.0,0.0,18.0,0.173318182
+2025-03-01,Retail,South,Television,Large size,18.0,0.0,0.0,18.0,0.10060454
+2025-03-01,Retail,South,Television,Small size,3.0,0.0,0.0,3.0,0.016345455
+2025-03-01,Retail,South,Washing Machine,Dryer Machine,5.0,0.0,0.0,5.0,0.023521818
+2025-03-01,Retail,South,Washing Machine,Dryer machine,42.0,0.0,2.0,40.0,0.265795454
+2025-03-01,Retail,South,Washing Machine,Front load,72.0,0.0,1.0,71.0,0.372735448
+2025-03-01,Retail,South,Washing Machine,Top load,63.0,0.0,0.0,63.0,0.203308181
+2025-03-01,Retail,South,RAC,Inverter,246.0,1.0,4.0,241.0,1.245871818
+2025-03-01,Retail,South,RAC,Non inverter,28.0,0.0,0.0,28.0,0.139079087
+2025-03-01,Retail,Middle,Refrigerator,Side by Side,1.0,0.0,0.0,1.0,0.010295455
+2025-03-01,Retail,Middle,Television,Large size,11.0,0.0,0.0,11.0,0.057679996
+2025-03-01,Retail,Middle,Television,Small size,14.0,0.0,0.0,14.0,0.030260006
+2025-03-01,Retail,Middle,Washing Machine,Dryer machine,33.0,0.0,1.0,32.0,0.206045448
+2025-03-01,Retail,Middle,Washing Machine,Front load,3.0,0.0,0.0,3.0,0.016140909
+2025-03-01,Retail,Middle,Washing Machine,Top load,5.0,0.0,0.0,5.0,0.017334546
+2025-03-01,Retail,Middle,RAC,Inverter,30.0,0.0,0.0,30.0,0.156813638
+2025-04-01,GT,North,Others,Water purifier,489.0,0.0,0.0,489.0,1.977653891
+2025-04-01,GT,North,Refrigerator,Side by Side,204.0,0.0,0.0,204.0,1.681818152
+2025-04-01,GT,North,Refrigerator,Multi doors,50.0,0.0,0.0,50.0,0.45
+2025-04-01,GT,North,Television,Large size,100.0,0.0,0.0,100.0,0.79545455
+2025-04-01,GT,North,Television,Small size,660.0,0.0,10.0,650.0,2.94272719
+2025-04-01,GT,North,Washing Machine,Front load,496.0,5.0,1.0,485.0,2.543636285
+2025-04-01,GT,North,Washing Machine,Top load,1257.0,0.0,0.0,1257.0,4.312545243
+2025-04-01,GT,North,RAC,Inverter,39371.0,4017.0,222.0,31115.0,197.20040595
+2025-04-01,GT,North,RAC,Non inverter,14498.0,529.0,2336.0,11104.0,58.552633371
+2025-04-01,GT,North,CAC,Other,92.0,0.0,0.0,92.0,1.797109082
+2025-04-01,GT,South,Others,Water purifier,185.0,0.0,0.0,185.0,0.961282636
+2025-04-01,GT,South,Refrigerator,Mini,34.0,0.0,0.0,34.0,0.092727282
+2025-04-01,GT,South,Refrigerator,Multi doors,50.0,0.0,0.0,50.0,0.45
+2025-04-01,GT,South,Refrigerator,Side by Side,50.0,0.0,0.0,50.0,0.41545454
+2025-04-01,GT,South,Television,Large size,40.0,0.0,0.0,40.0,0.32727272
+2025-04-01,GT,South,Television,Small size,1060.0,0.0,100.0,960.0,4.12159092
+2025-04-01,GT,South,Washing Machine,Dryer Machine,10.0,0.0,0.0,10.0,0.045
+2025-04-01,GT,South,Washing Machine,Front load,66.0,0.0,0.0,66.0,0.359072714
+2025-04-01,GT,South,Washing Machine,Top load,245.0,0.0,0.0,245.0,0.812727225
+2025-04-01,GT,South,RAC,Inverter,8614.0,0.0,0.0,8614.0,49.615225043
+2025-04-01,GT,South,RAC,Non inverter,315.0,0.0,0.0,315.0,2.00795445
+2025-04-01,GT,South,CAC,Other,53.0,0.0,0.0,53.0,1.297781814
+2025-04-01,GT,Middle,Refrigerator,Multi doors,30.0,0.0,0.0,30.0,0.298636365
+2025-04-01,GT,Middle,Refrigerator,Side by Side,20.0,0.0,0.0,20.0,0.17
+2025-04-01,GT,Middle,Television,Large size,10.0,0.0,0.0,10.0,0.08181818
+2025-04-01,GT,Middle,Television,Small size,550.0,0.0,0.0,550.0,2.44090905
+2025-04-01,GT,Middle,Washing Machine,Top load,10.0,0.0,0.0,10.0,0.03090909
+2025-04-01,GT,Middle,RAC,Inverter,10180.0,0.0,28.0,10152.0,56.745807297
+2025-04-01,GT,Middle,RAC,Non inverter,758.0,0.0,10.0,748.0,4.179999768
+2025-04-01,MT,North,Others,Electric fan,96.0,0.0,0.0,96.0,0.083945446
+2025-04-01,MT,North,Others,Water purifier,98.0,0.0,0.0,98.0,0.549967845
+2025-04-01,MT,North,Refrigerator,Mini,4.0,0.0,0.0,4.0,0.009396
+2025-04-01,MT,North,Refrigerator,Multi doors,10.0,0.0,0.0,10.0,0.110648546
+2025-04-01,MT,North,Refrigerator,Side by Side,78.0,0.0,0.0,78.0,0.848465738
+2025-04-01,MT,North,Television,Large size,15.0,3.0,0.0,9.0,0.034418673
+2025-04-01,MT,North,Television,Small size,21.0,0.0,0.0,21.0,0.061157288
+2025-04-01,MT,North,Washing Machine,Dryer Machine,6.0,1.0,0.0,4.0,0.018998
+2025-04-01,MT,North,Washing Machine,Front load,484.0,0.0,0.0,484.0,2.631136966
+2025-04-01,MT,North,Washing Machine,Top load,279.0,0.0,0.0,279.0,0.83331069
+2025-04-01,MT,North,RAC,Inverter,9987.0,9.0,0.0,9969.0,70.727466247
+2025-04-01,MT,North,RAC,Non inverter,571.0,0.0,0.0,571.0,2.813296471
+2025-04-01,MT,North,CAC,Other,6.0,0.0,0.0,6.0,0.1391
+2025-04-01,MT,South,Others,Electric fan,30.0,0.0,0.0,30.0,0.019490915
+2025-04-01,MT,South,Others,Water purifier,5.0,0.0,0.0,5.0,0.016295455
+2025-04-01,MT,South,Refrigerator,Mini,5.0,0.0,0.0,5.0,0.011745
+2025-04-01,MT,South,Refrigerator,Multi doors,37.0,0.0,0.0,37.0,0.432230539
+2025-04-01,MT,South,Refrigerator,Side by Side,393.0,1.0,0.0,391.0,4.189877249
+2025-04-01,MT,South,Television,Large size,112.0,2.0,0.0,108.0,0.67858896
+2025-04-01,MT,South,Television,Small size,87.0,0.0,0.0,87.0,0.275544311
+2025-04-01,MT,South,Washing Machine,Dryer Machine,63.0,0.0,0.0,63.0,0.275943
+2025-04-01,MT,South,Washing Machine,Front load,240.0,1.0,0.0,238.0,1.214963559
+2025-04-01,MT,South,Washing Machine,Top load,612.0,1.0,0.0,610.0,1.885554214
+2025-04-01,MT,South,RAC,Inverter,5777.0,10.0,0.0,5757.0,43.032500495
+2025-04-01,MT,South,RAC,Non inverter,581.0,0.0,0.0,581.0,2.587893114
+2025-04-01,MT,South,CAC,Other,18.0,0.0,0.0,18.0,0.480527998
+2025-04-01,MT,Middle,Refrigerator,Multi doors,1.0,0.0,0.0,1.0,0.011692909
+2025-04-01,MT,Middle,Refrigerator,Side by Side,37.0,0.0,0.0,37.0,0.40000054
+2025-04-01,MT,Middle,Television,Large size,30.0,0.0,0.0,30.0,0.15056127
+2025-04-01,MT,Middle,Television,Small size,23.0,0.0,0.0,23.0,0.082572573
+2025-04-01,MT,Middle,Washing Machine,Dryer Machine,8.0,0.0,0.0,8.0,0.036816
+2025-04-01,MT,Middle,Washing Machine,Front load,49.0,0.0,0.0,49.0,0.265963103
+2025-04-01,MT,Middle,Washing Machine,Top load,61.0,0.0,0.0,61.0,0.195447285
+2025-04-01,MT,Middle,RAC,Inverter,1542.0,0.0,0.0,1542.0,10.649750378
+2025-04-01,MT,Middle,RAC,Non inverter,34.0,0.0,0.0,34.0,0.185540713
+2025-04-01,Retail,North,Others,Air purifier,3.0,0.0,2.0,1.0,0.002845455
+2025-04-01,Retail,North,Others,Electric fan,48.0,2.0,0.0,44.0,0.043102732
+2025-04-01,Retail,North,Others,Water purifier,3.0,0.0,0.0,3.0,0.015887122
+2025-04-01,Retail,North,Refrigerator,Mini,44.0,0.0,0.0,44.0,0.121186367
+2025-04-01,Retail,North,Refrigerator,Multi doors,6.0,0.0,0.0,6.0,0.058290909
+2025-04-01,Retail,North,Refrigerator,Side by Side,41.0,3.0,0.0,35.0,0.326531812
+2025-04-01,Retail,North,Television,Large size,10.0,0.0,0.0,10.0,0.053531818
+2025-04-01,Retail,North,Television,Small size,9.0,4.0,0.0,1.0,0.01013909
+2025-04-01,Retail,North,Washing Machine,Dryer Machine,53.0,0.0,0.0,53.0,0.249765451
+2025-04-01,Retail,North,Washing Machine,Front load,73.0,12.0,0.0,49.0,0.290657276
+2025-04-01,Retail,North,Washing Machine,Top load,254.0,15.0,0.0,224.0,0.695680902
+2025-04-01,Retail,North,RAC,Inverter,310.0,16.0,1.0,277.0,1.750006355
+2025-04-01,Retail,North,RAC,Non inverter,64.0,6.0,0.0,52.0,0.298242733
+2025-04-01,Retail,North,CAC,Other,1.0,0.0,0.0,1.0,0.023818182
+2025-04-01,Retail,South,Others,Air purifier,1.0,0.0,0.0,1.0,0.003763636
+2025-04-01,Retail,South,Others,Electric fan,17.0,0.0,0.0,17.0,0.017519093
+2025-04-01,Retail,South,Refrigerator,Mini,22.0,0.0,0.0,22.0,0.060618184
+2025-04-01,Retail,South,Refrigerator,Multi doors,3.0,0.0,0.0,3.0,0.03836091
+2025-04-01,Retail,South,Refrigerator,Side by Side,14.0,1.0,0.0,12.0,0.114936364
+2025-04-01,Retail,South,Television,Large size,13.0,1.0,0.0,11.0,0.075395456
+2025-04-01,Retail,South,Television,Small size,22.0,0.0,0.0,22.0,0.081432719
+2025-04-01,Retail,South,Washing Machine,Dryer Machine,11.0,0.0,0.0,11.0,0.05455
+2025-04-01,Retail,South,Washing Machine,Dryer machine,3.0,0.0,0.0,3.0,0.019154545
+2025-04-01,Retail,South,Washing Machine,Front load,152.0,10.0,0.0,132.0,0.704779993
+2025-04-01,Retail,South,Washing Machine,Top load,134.0,5.0,0.0,124.0,0.389085451
+2025-04-01,Retail,South,RAC,Inverter,391.0,27.0,0.0,337.0,1.98979998
+2025-04-01,Retail,South,RAC,Non inverter,48.0,2.0,0.0,44.0,0.231501822
+2025-04-01,Retail,Middle,Others,Electric fan,1.0,0.0,0.0,1.0,0.0007
+2025-04-01,Retail,Middle,Refrigerator,Multi doors,1.0,0.0,0.0,1.0,0.011809091
+2025-04-01,Retail,Middle,Refrigerator,Side by Side,16.0,1.0,0.0,14.0,0.130054544
+2025-04-01,Retail,Middle,Television,Large size,2.0,0.0,0.0,2.0,0.0102
+2025-04-01,Retail,Middle,Television,Small size,7.0,0.0,0.0,7.0,0.020430911
+2025-04-01,Retail,Middle,Washing Machine,Dryer Machine,2.0,0.0,0.0,2.0,0.008662727
+2025-04-01,Retail,Middle,Washing Machine,Dryer machine,17.0,0.0,0.0,17.0,0.106845451
+2025-04-01,Retail,Middle,Washing Machine,Front load,10.0,0.0,0.0,10.0,0.056836363
+2025-04-01,Retail,Middle,Washing Machine,Top load,5.0,1.0,0.0,3.0,0.009971819
+2025-04-01,Retail,Middle,RAC,Inverter,69.0,1.0,0.0,67.0,0.358089098
+2025-04-01,Retail,Middle,RAC,Non inverter,10.0,0.0,0.0,10.0,0.040884545
+2025-05-01,GT,North,CAC,Other,573.0,0.0,1.0,572.0,11.065554656
+2025-05-01,GT,North,RAC,Non inverter,28253.0,4423.0,0.0,23830.0,117.563447838
+2025-05-01,GT,North,RAC,Inverter,36499.0,7.0,80.0,36412.0,252.446952185
+2025-05-01,GT,North,Washing Machine,Dryer Machine,36499.0,0.0,430.0,-430.0,-1.935
+2025-05-01,GT,North,Washing Machine,Front load,1800.0,0.0,668.0,1132.0,6.296318027
+2025-05-01,GT,North,Washing Machine,Top load,2172.0,0.0,508.0,1664.0,6.204363235
+2025-05-01,GT,North,Television,Small size,3140.0,0.0,376.0,2764.0,11.98063581
+2025-05-01,GT,North,Television,Large size,335.0,0.0,659.0,-324.0,-1.664681592
+2025-05-01,GT,North,Refrigerator,Multi doors,440.0,0.0,19.0,421.0,3.886090788
+2025-05-01,GT,North,Refrigerator,Side by Side,670.0,0.0,36.0,634.0,5.305181652
+2025-05-01,GT,South,CAC,Other,407.0,0.0,0.0,407.0,9.860145454
+2025-05-01,GT,South,RAC,Non inverter,159.0,39.0,0.0,120.0,0.75636362
+2025-05-01,GT,South,RAC,Inverter,3947.0,1947.0,0.0,2000.0,12.963636
+2025-05-01,GT,South,Washing Machine,Dryer Machine,15.0,0.0,0.0,15.0,0.068181825
+2025-05-01,GT,South,Washing Machine,Front load,135.0,0.0,0.0,135.0,0.743181805
+2025-05-01,GT,South,Washing Machine,Top load,250.0,0.0,0.0,250.0,0.90181811
+2025-05-01,GT,South,Television,Small size,769.0,299.0,0.0,470.0,1.794363542
+2025-05-01,GT,South,Television,Large size,30.0,0.0,0.0,30.0,0.25909092
+2025-05-01,GT,South,Refrigerator,Multi doors,80.0,0.0,0.0,80.0,0.74181816
+2025-05-01,GT,South,Refrigerator,Side by Side,70.0,0.0,0.0,70.0,0.57909089
+2025-05-01,GT,Middle,CAC,Other,87.0,0.0,0.0,87.0,1.944818187
+2025-05-01,GT,Middle,RAC,Non inverter,20.0,0.0,0.0,20.0,0.22727272
+2025-05-01,GT,Middle,RAC,Inverter,432.0,0.0,0.0,432.0,2.527818084
+2025-05-01,GT,Middle,Washing Machine,Front load,195.0,0.0,0.0,195.0,1.17454544
+2025-05-01,GT,Middle,Washing Machine,Top load,282.0,0.0,0.0,282.0,1.075727175
+2025-05-01,GT,Middle,Television,Small size,435.0,0.0,0.0,435.0,1.929999945
+2025-05-01,GT,Middle,Television,Large size,40.0,0.0,0.0,40.0,0.32727274
+2025-05-01,GT,Middle,Refrigerator,Mini,15.0,0.0,0.0,15.0,0.040909095
+2025-05-01,GT,Middle,Refrigerator,Multi doors,70.0,0.0,0.0,70.0,0.66545453
+2025-05-01,GT,Middle,Refrigerator,Side by Side,72.0,0.0,0.0,72.0,0.603818164
+2025-05-01,MT,North,CAC,Other,51.0,0.0,0.0,51.0,0.652519229
+2025-05-01,MT,North,RAC,Non inverter,720.0,0.0,0.0,720.0,3.318774659
+2025-05-01,MT,North,RAC,Inverter,7202.0,2.0,18.0,7182.0,48.683982795
+2025-05-01,MT,North,Others,Inverter,14.0,0.0,0.0,14.0,0.051305644
+2025-05-01,MT,North,Others,Electric fan,56.0,0.0,0.0,56.0,0.037520012
+2025-05-01,MT,North,Washing Machine,Dryer Machine,6.0,0.0,0.0,6.0,0.028202
+2025-05-01,MT,North,Washing Machine,Front load,356.0,0.0,0.0,356.0,1.953696396
+2025-05-01,MT,North,Washing Machine,Top load,181.0,0.0,0.0,181.0,0.541286334
+2025-05-01,MT,North,Television,Small size,415.0,0.0,0.0,415.0,1.417100597
+2025-05-01,MT,North,Television,Large size,166.0,0.0,0.0,166.0,1.013813269
+2025-05-01,MT,North,Refrigerator,Multi doors,3.0,0.0,0.0,3.0,0.037368908
+2025-05-01,MT,North,Refrigerator,Side by Side,261.0,0.0,0.0,261.0,2.910528405
+2025-05-01,MT,South,RAC,Non inverter,194.0,0.0,0.0,194.0,0.870077672
+2025-05-01,MT,South,RAC,Inverter,1786.0,0.0,22.0,1764.0,11.881933013
+2025-05-01,MT,South,Others,Inverter,82.0,0.0,0.0,82.0,0.345138358
+2025-05-01,MT,South,Others,Electric fan,84.0,0.0,0.0,84.0,0.054483642
+2025-05-01,MT,South,Washing Machine,Dryer Machine,114.0,0.0,0.0,114.0,0.522563
+2025-05-01,MT,South,Washing Machine,Front load,136.0,0.0,1.0,135.0,0.748399926
+2025-05-01,MT,South,Washing Machine,Top load,434.0,0.0,2.0,432.0,1.364752611
+2025-05-01,MT,South,Television,Small size,1153.0,0.0,1.0,1152.0,4.047443636
+2025-05-01,MT,South,Television,Large size,628.0,0.0,0.0,628.0,3.747055716
+2025-05-01,MT,South,Refrigerator,Multi doors,19.0,0.0,0.0,19.0,0.212137818
+2025-05-01,MT,South,Refrigerator,Side by Side,211.0,0.0,0.0,211.0,2.139727833
+2025-05-01,MT,Middle,CAC,Other,6.0,0.0,0.0,6.0,0.073096649
+2025-05-01,MT,Middle,RAC,Non inverter,58.0,0.0,0.0,58.0,0.272444366
+2025-05-01,MT,Middle,RAC,Inverter,2059.0,0.0,1.0,2058.0,13.34071234
+2025-05-01,MT,Middle,Washing Machine,Dryer Machine,26.0,0.0,0.0,26.0,0.119652
+2025-05-01,MT,Middle,Washing Machine,Top load,24.0,0.0,0.0,24.0,0.078818547
+2025-05-01,MT,Middle,Television,Small size,122.0,0.0,0.0,122.0,0.39850452
+2025-05-01,MT,Middle,Television,Large size,90.0,0.0,0.0,90.0,0.56681889
+2025-05-01,MT,Middle,Refrigerator,Side by Side,24.0,0.0,0.0,24.0,0.25247491
+2025-05-01,Retail,North,CAC,Other,3.0,0.0,0.0,3.0,0.080372728
+2025-05-01,Retail,North,RAC,Non inverter,273.0,2.0,19.0,252.0,1.191530887
+2025-05-01,Retail,North,RAC,Inverter,345.0,5.0,24.0,316.0,2.06719725
+2025-05-01,Retail,North,Others,Air purifier,68.0,0.0,0.0,68.0,0.157790692
+2025-05-01,Retail,North,Others,Air purifier,7.0,3.0,0.0,4.0,0.013780892
+2025-05-01,Retail,North,Others,Electric fan,142.0,67.0,7.0,68.0,0.072291823
+2025-05-01,Retail,North,Washing Machine,Dryer Machine,31.0,0.0,0.0,31.0,0.145252724
+2025-05-01,Retail,North,Washing Machine,Front load,88.0,0.0,8.0,80.0,0.467620919
+2025-05-01,Retail,North,Washing Machine,Top load,224.0,2.0,11.0,211.0,0.694404579
+2025-05-01,Retail,North,Television,Small size,5.0,0.0,0.0,5.0,0.024036364
+2025-05-01,Retail,North,Television,Large size,127.0,0.0,1.0,126.0,0.34599398
+2025-05-01,Retail,North,Refrigerator,Mini,135.0,0.0,4.0,131.0,0.315676361
+2025-05-01,Retail,North,Refrigerator,Multi doors,2.0,0.0,0.0,2.0,0.022045455
+2025-05-01,Retail,North,Refrigerator,Side by Side,45.0,0.0,0.0,45.0,0.410849997
+2025-05-01,Retail,South,RAC,Non inverter,157.0,1.0,6.0,150.0,0.710052128
+2025-05-01,Retail,South,RAC,Inverter,334.0,0.0,16.0,318.0,1.996830932
+2025-05-01,Retail,South,Others,Air purifier,11.0,0.0,0.0,11.0,0.037177271
+2025-05-01,Retail,South,Others,Air purifier,2.0,0.0,0.0,2.0,0.005616
+2025-05-01,Retail,South,Others,Electric fan,35.0,1.0,1.0,33.0,0.051669101
+2025-05-01,Retail,South,Washing Machine,Dryer Machine,31.0,0.0,2.0,29.0,0.14218283
+2025-05-01,Retail,South,Washing Machine,Front load,70.0,0.0,3.0,67.0,0.392209091
+2025-05-01,Retail,South,Washing Machine,Front load,1.0,0.0,0.0,1.0,0.002353745
+2025-05-01,Retail,South,Washing Machine,Top load,145.0,2.0,5.0,138.0,0.42572381
+2025-05-01,Retail,South,Television,Small size,6.0,0.0,0.0,6.0,0.023313636
+2025-05-01,Retail,South,Television,Large size,41.0,0.0,0.0,41.0,0.212459989
+2025-05-01,Retail,South,Refrigerator,Mini,104.0,0.0,1.0,103.0,0.247392729
+2025-05-01,Retail,South,Refrigerator,Multi doors,2.0,0.0,0.0,2.0,0.02019091
+2025-05-01,Retail,South,Refrigerator,Side by Side,40.0,0.0,1.0,39.0,0.325582821
+2025-05-01,Retail,Middle,RAC,Non inverter,8.0,0.0,0.0,8.0,0.030641092
+2025-05-01,Retail,Middle,RAC,Inverter,79.0,0.0,4.0,75.0,0.389620916
+2025-05-01,Retail,Middle,Others,Electric fan,5.0,0.0,0.0,5.0,0.003500001
+2025-05-01,Retail,Middle,Washing Machine,Dryer Machine,3.0,0.0,0.0,3.0,0.013017272
+2025-05-01,Retail,Middle,Washing Machine,Front load,27.0,0.0,0.0,27.0,0.156374544
+2025-05-01,Retail,Middle,Washing Machine,Top load,29.0,0.0,0.0,29.0,0.076724458
+2025-05-01,Retail,Middle,Television,Small size,4.0,0.0,0.0,4.0,0.010791819
+2025-05-01,Retail,Middle,Television,Large size,3.0,0.0,0.0,3.0,0.019619999
+2025-05-01,Retail,Middle,Refrigerator,Multi doors,4.0,0.0,0.0,4.0,0.026692365
+2025-05-01,Retail,Middle,Refrigerator,Side by Side,6.0,0.0,0.0,6.0,0.032293182
+2025-06-01,ECOM,North,RAC,Non inverter,1010.0,0.0,85.0,840.0,3.482824243
+2025-06-01,ECOM,North,RAC,Inverter,648.0,0.0,34.0,580.0,3.844646419
+2025-06-01,ECOM,North,Others,Air purifier,38.0,0.0,0.0,38.0,0.136359095
+2025-06-01,ECOM,North,Others,Water purifier,1.0,0.0,0.0,1.0,0.003699074
+2025-06-01,ECOM,North,Others,Electric fan,28.0,0.0,1.0,26.0,0.026769086
+2025-06-01,ECOM,North,Washing Machine,Dryer Machine,40.0,0.0,1.0,38.0,0.168718169
+2025-06-01,ECOM,North,Washing Machine,Front load,90.0,0.0,7.0,76.0,0.466875002
+2025-06-01,ECOM,North,Washing Machine,Top load,201.0,0.0,11.0,179.0,0.632976388
+2025-06-01,ECOM,North,Television,Small size,6.0,0.0,0.0,6.0,0.0307
+2025-06-01,ECOM,North,Television,Large size,105.0,0.0,5.0,95.0,0.602068146
+2025-06-01,ECOM,North,Refrigerator,Mini,379.0,0.0,18.0,343.0,0.742568147
+2025-06-01,ECOM,North,Refrigerator,Multi doors,16.0,0.0,0.0,16.0,0.15237727
+2025-06-01,ECOM,North,Refrigerator,Side by Side,123.0,0.0,1.0,121.0,1.09432544
+2025-06-01,ECOM,South,RAC,Non inverter,283.0,0.0,10.0,263.0,1.070346849
+2025-06-01,ECOM,South,RAC,Inverter,288.0,0.0,18.0,252.0,1.592120026
+2025-06-01,ECOM,South,Others,Air purifier,36.0,0.0,0.0,36.0,0.118318187
+2025-06-01,ECOM,South,Others,Water purifier,1.0,0.0,0.0,1.0,0.004810185
+2025-06-01,ECOM,South,Others,Electric fan,44.0,0.0,3.0,38.0,0.035715449
+2025-06-01,ECOM,South,Washing Machine,Dryer Machine,44.0,0.0,3.0,38.0,0.164614531
+2025-06-01,ECOM,South,Washing Machine,Front load,58.0,0.0,4.0,50.0,0.318817273
+2025-06-01,ECOM,South,Washing Machine,Top load,143.0,0.0,4.0,135.0,0.459434554
+2025-06-01,ECOM,South,Television,Small size,3.0,0.0,0.0,3.0,0.012472727
+2025-06-01,ECOM,South,Television,Large size,56.0,0.0,3.0,50.0,0.319137706
+2025-06-01,ECOM,South,Refrigerator,Mini,282.0,0.0,9.0,264.0,0.586295424
+2025-06-01,ECOM,South,Refrigerator,Multi doors,7.0,0.0,0.0,7.0,0.077150911
+2025-06-01,ECOM,South,Refrigerator,Side by Side,33.0,0.0,4.0,25.0,0.21268636
+2025-06-01,ECOM,Middle,RAC,Non inverter,13.0,0.0,0.0,13.0,0.054360004
+2025-06-01,ECOM,Middle,RAC,Inverter,25.0,0.0,4.0,17.0,0.109431821
+2025-06-01,ECOM,Middle,Others,Air purifier,2.0,0.0,0.0,2.0,0.004072727
+2025-06-01,ECOM,Middle,Washing Machine,Front load,11.0,0.0,1.0,9.0,0.047448181
+2025-06-01,ECOM,Middle,Washing Machine,Top load,5.0,0.0,0.0,5.0,0.014963638
+2025-06-01,ECOM,Middle,Refrigerator,Mini,5.0,0.0,0.0,5.0,0.010140909
+2025-06-01,ECOM,Middle,Refrigerator,Multi doors,1.0,0.0,0.0,1.0,0.010445455
+2025-06-01,ECOM,Middle,Refrigerator,Side by Side,9.0,0.0,0.0,9.0,0.090404545
+2025-06-01,GT,North,CAC,Other,709.0,0.0,13.0,683.0,14.623919698
+2025-06-01,GT,North,RAC,Non inverter,11405.0,660.0,113.0,10519.0,66.562451038
+2025-06-01,GT,North,RAC,Inverter,31039.0,195.0,213.0,30418.0,185.953038853
+2025-06-01,GT,North,Others,Water purifier,24.0,1.0,23.0,-23.0,-0.078113892
+2025-06-01,GT,North,Others,Electric fan,14.0,0.0,14.0,-14.0,-0.009931815
+2025-06-01,GT,North,Washing Machine,Dryer Machine,16.0,0.0,16.0,-16.0,-0.072
+2025-06-01,GT,North,Washing Machine,Front load,663.0,0.0,98.0,467.0,2.601018246
+2025-06-01,GT,North,Washing Machine,Top load,1340.0,0.0,55.0,1230.0,4.342363243
+2025-06-01,GT,North,Television,Small size,516.0,0.0,16.0,484.0,2.109999926
+2025-06-01,GT,North,Television,Large size,300.0,0.0,0.0,300.0,2.36363645
+2025-06-01,GT,North,Refrigerator,Multi doors,603.0,0.0,3.0,597.0,5.5366362
+2025-06-01,GT,North,Refrigerator,Side by Side,403.0,0.0,3.0,397.0,3.283908982
+2025-06-01,GT,South,CAC,Other,321.0,0.0,0.0,321.0,7.545899982
+2025-06-01,GT,South,RAC,Non inverter,295.0,0.0,0.0,295.0,1.88954537
+2025-06-01,GT,South,RAC,Inverter,6614.0,315.0,0.0,6299.0,35.581862509
+2025-06-01,GT,South,Others,Water purifier,181.0,0.0,161.0,-141.0,-0.500204868
+2025-06-01,GT,South,Others,Electric fan,18.0,0.0,18.0,-18.0,-0.010104543
+2025-06-01,GT,South,Washing Machine,Front load,150.0,0.0,0.0,150.0,0.82636362
+2025-06-01,GT,South,Washing Machine,Top load,190.0,0.0,0.0,190.0,0.80090905
+2025-06-01,GT,South,Television,Small size,410.0,0.0,0.0,410.0,1.91363635
+2025-06-01,GT,South,Television,Large size,200.0,0.0,0.0,200.0,1.59090915
+2025-06-01,GT,Middle,CAC,Other,37.0,0.0,2.0,33.0,0.918854545
+2025-06-01,GT,Middle,RAC,Non inverter,1207.0,7.0,0.0,1200.0,6.26636328
+2025-06-01,GT,Middle,RAC,Inverter,3474.0,9.0,0.0,3465.0,19.548408285
+2025-06-01,GT,Middle,Washing Machine,Dryer Machine,60.0,0.0,60.0,-60.0,-0.26818182
+2025-06-01,GT,Middle,Washing Machine,Front load,144.0,0.0,94.0,-44.0,-0.226218171
+2025-06-01,GT,Middle,Washing Machine,Top load,514.0,2.0,142.0,228.0,0.849818124
+2025-06-01,GT,Middle,Television,Small size,313.0,0.0,163.0,-13.0,-0.036181789
+2025-06-01,GT,Middle,Television,Large size,660.0,0.0,10.0,640.0,5.31954567
+2025-06-01,GT,Middle,Refrigerator,Mini,50.0,0.0,0.0,50.0,0.13636365
+2025-06-01,GT,Middle,Refrigerator,Multi doors,93.0,0.0,43.0,7.0,0.047999985
+2025-06-01,GT,Middle,Refrigerator,Side by Side,83.0,0.0,33.0,17.0,0.130909076
+2025-06-01,MT,North,CAC,Other,5.0,0.0,0.0,5.0,0.126427273
+2025-06-01,MT,North,RAC,Non inverter,1306.0,0.0,0.0,1306.0,5.883425496
+2025-06-01,MT,North,RAC,Inverter,5323.0,0.0,91.0,5141.0,32.95198934
+2025-06-01,MT,North,Others,Electric fan,3.0,0.0,0.0,3.0,0.003032727
+2025-06-01,MT,North,Washing Machine,Front load,659.0,0.0,0.0,659.0,3.812497841
+2025-06-01,MT,North,Washing Machine,Dryer Machine,80.0,0.0,0.0,80.0,0.673363648
+2025-06-01,MT,North,Washing Machine,Top load,334.0,0.0,1.0,332.0,0.979209942
+2025-06-01,MT,North,Television,Small size,257.0,0.0,1.0,255.0,0.974269387
+2025-06-01,MT,North,Television,Large size,11.0,0.0,1.0,9.0,0.075439999
+2025-06-01,MT,North,Refrigerator,Mini,5.0,0.0,0.0,5.0,0.011745
+2025-06-01,MT,North,Refrigerator,Multi doors,48.0,0.0,0.0,48.0,0.580339621
+2025-06-01,MT,North,Refrigerator,Side by Side,253.0,0.0,0.0,253.0,2.772205031
+2025-06-01,MT,South,CAC,Other,3.0,0.0,0.0,3.0,0.079063635
+2025-06-01,MT,South,RAC,Non inverter,25.0,0.0,0.0,25.0,0.112958188
+2025-06-01,MT,South,RAC,Inverter,1678.0,0.0,9.0,1660.0,11.537935845
+2025-06-01,MT,South,Washing Machine,Dryer Machine,122.0,0.0,0.0,122.0,0.561562
+2025-06-01,MT,South,Washing Machine,Front load,126.0,0.0,0.0,126.0,0.696059398
+2025-06-01,MT,South,Washing Machine,Top load,483.0,0.0,0.0,483.0,1.564004248
+2025-06-01,MT,South,Television,Small size,920.0,0.0,4.0,912.0,3.65870556
+2025-06-01,MT,South,Television,Large size,6.0,0.0,0.0,6.0,0.047382516
+2025-06-01,MT,South,Refrigerator,Multi doors,25.0,0.0,0.0,25.0,0.301017447
+2025-06-01,MT,South,Refrigerator,Side by Side,221.0,0.0,0.0,221.0,2.213418639
+2025-06-01,MT,Middle,RAC,Non inverter,71.0,0.0,0.0,71.0,0.295107854
+2025-06-01,MT,Middle,RAC,Inverter,1636.0,0.0,10.0,1616.0,10.304632384
+2025-06-01,MT,Middle,Washing Machine,Dryer Machine,19.0,0.0,0.0,19.0,0.087438
+2025-06-01,MT,Middle,Washing Machine,Front load,5.0,0.0,0.0,5.0,0.027536909
+2025-06-01,MT,Middle,Washing Machine,Top load,25.0,0.0,0.0,25.0,0.086287277
+2025-06-01,MT,Middle,Television,Small size,128.0,0.0,1.0,126.0,0.532455968
+2025-06-01,MT,Middle,Refrigerator,Side by Side,29.0,0.0,0.0,29.0,0.303675456
+2025-06-01,Retail,North,Others,Air purifier,25.0,0.0,0.0,25.0,0.05195455
+2025-06-01,Retail,North,Others,Water purifier,1.0,1.0,0.0,0.0,0.0
+2025-06-01,Retail,South,Others,Air purifier,5.0,0.0,0.0,5.0,0.01039091
+2025-06-01,Retail,Middle,Television,Small size,1.0,0.0,0.0,1.0,0.001912727
