@@ -43,11 +43,3 @@ The application expects an Excel file named `Sales Report by Month Raw Data.xlsx
 - Total volume
 - Actual sales volume
 
-## Deployment on Streamlit Cloud
-
-1. Push this repository to GitHub
-2. Go to [Streamlit Cloud](https://streamlit.io/cloud)
-3. Connect your GitHub repository
-4. Deploy the app
-
-Note: Make sure to upload your data file to the repository or configure data access for Streamlit Cloud.
