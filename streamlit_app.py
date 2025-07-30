@@ -150,6 +150,17 @@ def plot_sales_by_month(df, channels=None, divisions=None, metric='Sales amount'
         title_text = f'{metric} by {time_period}'
         yaxis_label = f'{metric} ({unit})'
     
+    # Count unique time periods to adjust layout
+    unique_periods = grouped[time_col].nunique()
+    
+    # Adjust figure width based on number of data points
+    if unique_periods <= 4:
+        fig_width = 800
+    elif unique_periods <= 8:
+        fig_width = 1000
+    else:
+        fig_width = None  # Use default/full width
+    
     fig.update_layout(
         title=f'{title_text}<br><sub>Channels: {", ".join([c for c in channels if c != "ALL"])} | Divisions: {", ".join([d for d in divisions if d != "ALL"])}</sub>',
         xaxis_title=time_period,
@@ -157,13 +168,21 @@ def plot_sales_by_month(df, channels=None, divisions=None, metric='Sales amount'
         hovermode='x unified',
         template='plotly_white',
         height=600,
+        width=fig_width,
         legend=dict(
             orientation='v',
             yanchor='top',
             y=1,
             xanchor='left',
             x=1.02
-        )
+        ),
+        xaxis=dict(
+            tickmode='linear' if unique_periods <= 12 else 'auto',
+            dtick=1 if time_period == 'Quarter' and unique_periods <= 8 else None,
+            rangeslider=dict(visible=False),
+            type='category' if time_period == 'Quarter' else 'date'
+        ),
+        margin=dict(l=80, r=150, t=100, b=80)
     )
     
     # Format y-axis
